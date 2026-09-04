@@ -1,0 +1,53 @@
+{
+  "$schema": "https://firebase.google.com/schemas/blueprint/v1",
+  "entities": {
+    "users": {
+      "title": "User Profile",
+      "description": "User profile with FMGE exam preferences and metadata",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "displayName": { "type": "string" },
+        "email": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "examDate": { "type": "string" },
+        "targetScore": { "type": "number" },
+        "dailyHoursTarget": { "type": "number" },
+        "createdAt": { "type": "string" },
+        "lastActiveAt": { "type": "string" },
+        "onboardingCompleted": { "type": "boolean" },
+        "preferences": { "type": "object" }
+      },
+      "required": ["uid", "email"]
+    },
+    "userData": {
+      "title": "User Study State",
+      "description": "Comprehensive personal study history, topic progress, Grand Tests, MCQs, and planner data",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "topicsState": { "type": "object" },
+        "subjectProgress": { "type": "object" },
+        "dailyTasks": { "type": "array" },
+        "grandTests": { "type": "array" },
+        "studySessions": { "type": "array" },
+        "clinicalPearls": { "type": "array" },
+        "telegramQuestions": { "type": "array" },
+        "settings": { "type": "object" },
+        "customSubjects": { "type": "array" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["userId"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "users",
+      "description": "Personal user profile document"
+    },
+    "/userData/{userId}": {
+      "schema": "userData",
+      "description": "User personal cloud state"
+    }
+  }
+}

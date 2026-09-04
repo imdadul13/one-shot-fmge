@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" width="100%" height="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" width="100%" height="100%">
+  <rect width="700" height="400" fill="#0f172a"/>
+  <text x="40" y="40" font-family="'Outfit', sans-serif" font-size="13" font-weight="bold" fill="#94a3b8">EXTRACELLULAR FLUID (High Na+, Low K+)</text>
+  <text x="40" y="370" font-family="'Outfit', sans-serif" font-size="13" font-weight="bold" fill="#94a3b8">INTRACELLULAR CYTOPLASM (High K+, Low Na+)</text>
+
+  <!-- Lipid Bilayer Phospholipid Heads -->
+  <g fill="#f43f5e">
+    <!-- Top Layer -->
+    <circle cx="60" cy="140" r="8"/><circle cx="90" cy="140" r="8"/><circle cx="120" cy="140" r="8"/><circle cx="150" cy="140" r="8"/>
+    <circle cx="350" cy="140" r="8"/><circle cx="380" cy="140" r="8"/><circle cx="410" cy="140" r="8"/><circle cx="440" cy="140" r="8"/>
+    <circle cx="470" cy="140" r="8"/><circle cx="500" cy="140" r="8"/><circle cx="530" cy="140" r="8"/><circle cx="560" cy="140" r="8"/>
+    <circle cx="590" cy="140" r="8"/><circle cx="620" cy="140" r="8"/><circle cx="650" cy="140" r="8"/>
+
+    <!-- Bottom Layer -->
+    <circle cx="60" cy="240" r="8"/><circle cx="90" cy="240" r="8"/><circle cx="120" cy="240" r="8"/><circle cx="150" cy="240" r="8"/>
+    <circle cx="350" cy="240" r="8"/><circle cx="380" cy="240" r="8"/><circle cx="410" cy="240" r="8"/><circle cx="440" cy="240" r="8"/>
+    <circle cx="470" cy="240" r="8"/><circle cx="500" cy="240" r="8"/><circle cx="530" cy="240" r="8"/><circle cx="560" cy="240" r="8"/>
+    <circle cx="590" cy="240" r="8"/><circle cx="620" cy="240" r="8"/><circle cx="650" cy="240" r="8"/>
+  </g>
+
+  <!-- Fatty acid hydrocarbon tails -->
+  <g stroke="#fb7185" stroke-width="2">
+    <line x1="60" y1="148" x2="60" y2="232"/><line x1="90" y1="148" x2="90" y2="232"/>
+    <line x1="120" y1="148" x2="120" y2="232"/><line x1="150" y1="148" x2="150" y2="232"/>
+    <line x1="350" y1="148" x2="350" y2="232"/><line x1="380" y1="148" x2="380" y2="232"/>
+    <line x1="410" y1="148" x2="410" y2="232"/><line x1="440" y1="148" x2="440" y2="232"/>
+    <line x1="470" y1="148" x2="470" y2="232"/><line x1="500" y1="148" x2="500" y2="232"/>
+    <line x1="530" y1="148" x2="530" y2="232"/><line x1="560" y1="148" x2="560" y2="232"/>
+  </g>
+
+  <!-- Transmembrane Na+/K+ ATPase Pump Protein (Alpha & Beta Subunits) -->
+  <path d="M 180 120 Q 250 100 320 120 L 300 260 Q 250 280 200 260 Z" fill="#0284c7" stroke="#38bdf8" stroke-width="3"/>
+  <ellipse cx="250" cy="190" rx="35" ry="45" fill="#0369a1"/>
+
+  <g font-family="'Outfit', sans-serif" font-size="12" font-weight="bold">
+    <!-- 3 Na+ Out -->
+    <path d="M 230 180 L 210 70" stroke="#fbbf24" stroke-width="3" marker-end="url(#arrow)"/>
+    <text x="140" y="80" fill="#fbbf24">3 Na+ pumped OUT</text>
+
+    <!-- 2 K+ In -->
+    <path d="M 280 80 L 290 280" stroke="#38bdf8" stroke-width="3"/>
+    <text x="310" y="330" fill="#38bdf8">2 K+ pumped IN</text>
+
+    <!-- ATP -> ADP -->
+    <text x="180" y="315" fill="#f43f5e">ATP → ADP + Pi (Primary Active Transport)</text>
+    <text x="360" y="190" fill="#e2e8f0">Inhibited by: Ouabain &amp; Digoxin</text>
+  </g>
+</svg>

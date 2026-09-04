@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="18" fill="#0F172A"/>
+  <!-- Outer O Ring -->
+  <circle cx="32" cy="32" r="20" stroke="#38BDF8" stroke-width="4" stroke-linecap="round" stroke-dasharray="100 25"/>
+  <!-- Central Stylized 1 & S Pillar -->
+  <path d="M28 24L32 20V44M27 44H37" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Teal Pulse Accent -->
+  <circle cx="44" cy="20" r="3.5" fill="#2DD4BF"/>
+</svg>

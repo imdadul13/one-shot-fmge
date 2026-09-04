@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 400" width="100%" height="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 400" width="100%" height="100%">
+  <defs>
+    <pattern id="ecgCleanSmall" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#fecdd3" stroke-width="0.5"/>
+    </pattern>
+    <pattern id="ecgCleanGrid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <rect width="50" height="50" fill="url(#ecgCleanSmall)"/>
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#fda4af" stroke-width="1.2"/>
+    </pattern>
+  </defs>
+  <rect width="920" height="400" fill="#fff1f2"/>
+  <rect width="920" height="400" fill="url(#ecgCleanGrid)"/>
+  <text x="25" y="30" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#64748b">CONTINUOUS LEAD II RHYTHM STRIP · 25 mm/sec · 10 mm/mV</text>
+
+  <path d="
+    M 25 180 
+    L 85 180 Q 98 162 110 180 L 150 180
+    L 170 180 L 175 185 L 185 110 L 195 230 L 205 180 L 210 180 Q 218 162 226 180 L 245 180 Q 260 198 280 180 L 320 180
+    L 330 180 Q 338 162 346 180 L 440 180 Q 458 162 470 180 L 490 180
+    L 505 180 L 510 185 L 520 110 L 530 230 L 540 180 L 565 180 Q 578 162 588 180 L 600 180 Q 615 198 635 180 L 685 180
+    Q 698 162 708 180 L 800 180
+    L 810 180 Q 818 162 826 180 L 840 180 L 845 185 L 855 110 L 865 230 L 875 180
+  " fill="none" stroke="#0f172a" stroke-width="2.6"/>
+
+  <g fill="#0284c7" font-family="sans-serif" font-size="11" font-weight="bold">
+    <text x="95" y="140">P</text>
+    <path d="M 98 145 L 98 165" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="2,2"/>
+    <text x="215" y="140">P</text>
+    <path d="M 218 145 L 218 165" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="2,2"/>
+    <text x="335" y="140">P</text>
+    <path d="M 338 145 L 338 165" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="2,2"/>
+    <text x="455" y="140">P</text>
+    <path d="M 458 145 L 458 165" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="2,2"/>
+    <text x="575" y="140">P</text>
+    <path d="M 578 145 L 578 165" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="2,2"/>
+    <text x="695" y="140">P</text>
+    <path d="M 698 145 L 698 165" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="2,2"/>
+    <text x="815" y="140">P</text>
+    <path d="M 818 145 L 818 165" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="2,2"/>
+  </g>
+  <rect x="30" y="270" width="860" height="90" rx="12" fill="#ffffff" stroke="#cbd5e1" opacity="0.95"/>
+  <text x="50" y="300" font-family="'Outfit', sans-serif" font-size="13" font-weight="bold" fill="#0f172a">AV DISSOCIATION MARKERS:</text>
+  <text x="50" y="325" font-family="sans-serif" font-size="12" fill="#334155">Regular P-P intervals (blue markers, ~78/min) march through independent of the slow escape QRS rate (~34/min).</text>
+  <text x="50" y="345" font-family="sans-serif" font-size="12" font-weight="bold" fill="#be123c">Treatment of choice: Permanent Pacemaker Implantation (PPI).</text>
+</svg>

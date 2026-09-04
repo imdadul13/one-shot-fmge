@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 400" width="100%" height="100%">
+  <defs>
+    <pattern id="ecgAntSmall" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#fecdd3" stroke-width="0.5"/>
+    </pattern>
+    <pattern id="ecgAntGrid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <rect width="50" height="50" fill="url(#ecgAntSmall)"/>
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#fda4af" stroke-width="1.2"/>
+    </pattern>
+  </defs>
+  <rect width="920" height="400" fill="#fff1f2"/>
+  <rect width="920" height="400" fill="url(#ecgAntGrid)"/>
+  <text x="25" y="26" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#64748b">12-LEAD ECG · LEADS V1-V4 (ANTERIOR CHEST LEADS) · 25 mm/sec · 10 mm/mV</text>
+
+  <!-- Lead V1 -->
+  <g transform="translate(30, 60)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">V1</text>
+    <path d="M 0 60 L 20 60 Q 30 55 40 60 L 45 60 L 50 63 L 55 40 L 60 95 L 65 35 Q 85 30 105 45 L 120 60 L 140 60 Q 150 55 160 60 L 165 60 L 170 63 L 175 40 L 180 95 L 185 35 Q 205 30 225 45 L 240 60" fill="none" stroke="#0f172a" stroke-width="2.4"/>
+  </g>
+
+  <!-- Lead V2 -->
+  <g transform="translate(470, 60)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">V2</text>
+    <path d="M 0 60 L 20 60 Q 30 55 40 60 L 45 60 L 50 63 L 55 30 L 60 110 L 65 15 Q 90 10 115 35 L 130 60 L 150 60 Q 160 55 170 60 L 175 60 L 180 63 L 185 30 L 190 110 L 195 15 Q 220 10 245 35 L 260 60" fill="none" stroke="#0f172a" stroke-width="2.4"/>
+  </g>
+
+  <!-- Lead V3 -->
+  <g transform="translate(30, 210)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">V3</text>
+    <path d="M 0 60 L 20 60 Q 30 55 40 60 L 45 60 L 50 63 L 55 15 L 60 95 L 65 10 Q 90 5 115 30 L 130 60 L 150 60 Q 160 55 170 60 L 175 60 L 180 63 L 185 15 L 190 95 L 195 10 Q 220 5 245 30 L 260 60" fill="none" stroke="#0f172a" stroke-width="2.4"/>
+  </g>
+
+  <!-- Lead V4 -->
+  <g transform="translate(470, 210)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">V4</text>
+    <path d="M 0 60 L 20 60 Q 30 55 40 60 L 45 60 L 50 63 L 55 10 L 60 75 L 65 20 Q 90 15 115 40 L 130 60 L 150 60 Q 160 55 170 60 L 175 60 L 180 63 L 185 10 L 190 75 L 195 20 Q 220 15 245 40 L 260 60" fill="none" stroke="#0f172a" stroke-width="2.4"/>
+  </g>
+</svg>

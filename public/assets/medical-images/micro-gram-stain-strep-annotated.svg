@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="100%" height="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="100%" height="100%">
+  <rect width="500" height="400" fill="#0f172a"/>
+  <!-- Microscopic Field -->
+  <circle cx="250" cy="200" r="180" fill="#ffe4e6"/>
+  <!-- Neutrophils background (Pink cytoplasm, lobed nucleus) -->
+  <ellipse cx="160" cy="180" rx="45" ry="35" fill="#fbcfe8" opacity="0.6"/>
+  <ellipse cx="145" cy="175" rx="10" ry="12" fill="#701a75"/>
+  <ellipse cx="165" cy="185" rx="11" ry="9" fill="#701a75"/>
+  
+  <!-- Gram-Positive Violet Lancet Pairs (Strep pneumoniae) -->
+  <g fill="#4c1d95" stroke="#312e81" stroke-width="1.2">
+    <!-- Pair 1 -->
+    <path d="M 230 140 Q 234 130 238 140 Q 238 150 230 150 Z"/>
+    <path d="M 242 140 Q 246 130 250 140 Q 250 150 242 150 Z"/>
+
+    <!-- Pair 2 -->
+    <path d="M 280 220 Q 284 210 288 220 Q 288 230 280 230 Z"/>
+    <path d="M 292 220 Q 296 210 300 220 Q 300 230 292 230 Z"/>
+
+    <!-- Pair 3 -->
+    <path d="M 180 260 Q 184 250 188 260 Q 188 270 180 270 Z"/>
+    <path d="M 192 260 Q 196 250 200 260 Q 200 270 192 270 Z"/>
+
+    <!-- Short Chain -->
+    <circle cx="330" cy="160" r="5"/>
+    <circle cx="340" cy="165" r="5"/>
+    <circle cx="350" cy="170" r="5"/>
+    <circle cx="360" cy="175" r="5"/>
+  </g>
+
+  <g>
+    <circle cx="240" cy="142" r="22" fill="none" stroke="#2563eb" stroke-width="2"/>
+    <text x="70" y="70" font-family="'Outfit', sans-serif" font-size="12" font-weight="bold" fill="#38bdf8">Gram-Positive Lancet-Shaped Diplococci in Pairs</text>
+    <text x="70" y="90" font-family="sans-serif" font-size="11" fill="#cbd5e1">Bile soluble, Optochin sensitive (Streptococcus pneumoniae)</text>
+  </g>
+</svg>

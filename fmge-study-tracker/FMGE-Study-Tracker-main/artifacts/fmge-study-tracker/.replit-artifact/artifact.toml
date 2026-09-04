@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "FMGE Study Tracker"
+description = "A comprehensive FMGE and NExT preparation workspace for tracking 19 subjects, revision cycles, grand tests, daily focus sessions, medical pearls, Telegram MCQs, and AI coaching."
+version = "1.0.0"
+id = "artifacts/fmge-study-tracker"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18685
+
+[services.development]
+run = "pnpm --filter @workspace/fmge-study-tracker run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/fmge-study-tracker", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/fmge-study-tracker/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18685"
+BASE_PATH = "/"

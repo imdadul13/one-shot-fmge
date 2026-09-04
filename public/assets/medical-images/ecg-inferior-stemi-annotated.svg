@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 460" width="100%" height="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 460" width="100%" height="100%">
+  <defs>
+    <pattern id="smallGridClean" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#fecdd3" stroke-width="0.5"/>
+    </pattern>
+    <pattern id="gridClean" width="50" height="50" patternUnits="userSpaceOnUse">
+      <rect width="50" height="50" fill="url(#smallGridClean)"/>
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#fda4af" stroke-width="1.2"/>
+    </pattern>
+  </defs>
+  <rect width="920" height="460" fill="#fff1f2"/>
+  <rect width="920" height="460" fill="url(#gridClean)"/>
+  <text x="25" y="26" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#64748b">12-LEAD ELECTROCARDIOGRAM · 25 mm/sec · 10 mm/mV · 0.05-150 Hz</text>
+  <path d="M 25 65 L 35 65 L 35 35 L 50 35 L 50 65 L 60 65" fill="none" stroke="#1e293b" stroke-width="1.8"/>
+
+  <!-- LEAD I -->
+  <g transform="translate(30, 50)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">I</text>
+    <path d="M 0 55 Q 15 55 25 50 Q 35 55 45 55 L 50 58 L 55 15 L 60 65 L 65 55 L 80 63 Q 95 67 110 60 L 130 55 Q 145 55 155 50 Q 165 55 175 55 L 180 58 L 185 15 L 190 65 L 195 55 L 210 63 Q 225 67 240 60 L 260 55" fill="none" stroke="#0f172a" stroke-width="2.2"/>
+  </g>
+
+  <!-- LEAD II -->
+  <g transform="translate(330, 50)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">II</text>
+    <path d="M 0 55 Q 15 55 25 48 Q 35 55 45 55 L 50 59 L 55 10 L 60 63 L 65 33 Q 85 31 100 40 L 120 55 Q 135 55 145 48 Q 155 55 165 55 L 170 59 L 175 10 L 180 63 L 185 33 Q 205 31 220 40 L 240 55" fill="none" stroke="#0f172a" stroke-width="2.2"/>
+  </g>
+
+  <!-- LEAD III -->
+  <g transform="translate(630, 50)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">III</text>
+    <path d="M 0 55 Q 15 55 25 47 Q 35 55 45 55 L 50 59 L 55 12 L 60 63 L 65 30 Q 85 28 100 38 L 120 55 Q 135 55 145 47 Q 155 55 165 55 L 170 59 L 175 12 L 180 63 L 185 30 Q 205 28 220 38 L 240 55" fill="none" stroke="#0f172a" stroke-width="2.2"/>
+  </g>
+
+  <!-- LEAD aVR -->
+  <g transform="translate(30, 160)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">aVR</text>
+    <path d="M 0 55 Q 15 55 25 60 Q 35 55 45 55 L 50 52 L 55 90 L 60 48 L 65 55 L 80 48 Q 95 45 110 52 L 130 55 Q 145 55 155 60 Q 165 55 175 55 L 180 52 L 185 90 L 190 48 L 195 55 L 210 48 Q 225 45 240 52 L 260 55" fill="none" stroke="#0f172a" stroke-width="2.2"/>
+  </g>
+
+  <!-- LEAD aVL -->
+  <g transform="translate(330, 160)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">aVL</text>
+    <path d="M 0 55 Q 15 55 25 50 Q 35 55 45 55 L 50 58 L 55 20 L 60 65 L 65 55 L 80 67 Q 95 71 110 63 L 130 55 Q 145 55 155 50 Q 165 55 175 55 L 180 58 L 185 20 L 190 65 L 195 55 L 210 67 Q 225 71 240 63 L 260 55" fill="none" stroke="#0f172a" stroke-width="2.2"/>
+  </g>
+
+  <!-- LEAD aVF -->
+  <g transform="translate(630, 160)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">aVF</text>
+    <path d="M 0 55 Q 15 55 25 48 Q 35 55 45 55 L 50 59 L 55 14 L 60 63 L 65 34 Q 85 32 100 42 L 120 55 Q 135 55 145 48 Q 155 55 165 55 L 170 59 L 175 14 L 180 63 L 185 34 Q 205 32 220 42 L 240 55" fill="none" stroke="#0f172a" stroke-width="2.2"/>
+  </g>
+
+  <!-- LEAD V1 - V3 -->
+  <g transform="translate(30, 270)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">V1</text>
+    <path d="M 0 55 Q 15 55 25 52 Q 35 55 45 55 L 50 57 L 55 35 L 60 85 L 65 55 L 80 55 Q 95 55 110 55 L 130 55 Q 145 55 155 52 Q 165 55 175 55 L 180 57 L 185 35 L 190 85 L 195 55 L 210 55 Q 225 55 240 55 L 260 55" fill="none" stroke="#0f172a" stroke-width="2.2"/>
+  </g>
+
+  <!-- LEAD V4 - V6 -->
+  <g transform="translate(330, 270)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">V4</text>
+    <path d="M 0 55 Q 15 55 25 50 Q 35 55 45 55 L 50 58 L 55 10 L 60 65 L 65 55 L 80 48 Q 95 44 110 52 L 130 55 Q 145 55 155 50 Q 165 55 175 55 L 180 58 L 185 10 L 190 65 L 195 55 L 210 48 Q 225 44 240 52 L 260 55" fill="none" stroke="#0f172a" stroke-width="2.2"/>
+  </g>
+
+  <!-- Lead V4R -->
+  <g transform="translate(630, 270)">
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#1e293b">V4R</text>
+    <path d="M 0 55 Q 15 55 25 49 Q 35 55 45 55 L 50 59 L 55 16 L 60 63 L 65 37 Q 85 35 100 45 L 120 55 Q 135 55 145 49 Q 155 55 165 55 L 170 59 L 175 16 L 180 63 L 185 37 Q 205 35 220 45 L 240 55" fill="none" stroke="#0f172a" stroke-width="2.2"/>
+  </g>
+
+  <!-- Lead II Rhythm Strip -->
+  <g transform="translate(30, 380)">
+    <text x="0" y="15" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#1e293b">II (Rhythm)</text>
+    <path d="M 0 45 Q 15 45 25 38 Q 35 45 45 45 L 50 49 L 55 0 L 60 53 L 65 23 Q 85 21 100 30 L 120 45 L 150 45 Q 165 45 175 38 Q 185 45 195 45 L 200 49 L 205 0 L 210 53 L 215 23 Q 235 21 250 30 L 270 45 L 300 45 Q 315 45 325 38 Q 335 45 345 45 L 350 49 L 355 0 L 360 53 L 365 23 Q 385 21 400 30 L 420 45 L 450 45 Q 465 45 475 38 Q 485 45 495 45 L 500 49 L 505 0 L 510 53 L 515 23 Q 535 21 550 30 L 570 45 L 600 45 Q 615 45 625 38 Q 635 45 645 45 L 650 49 L 655 0 L 660 53 L 665 23 Q 685 21 700 30 L 720 45 L 750 45 Q 765 45 775 38 Q 785 45 795 45 L 800 49 L 805 0 L 810 53 L 815 23 Q 835 21 850 30 L 860 45" fill="none" stroke="#0f172a" stroke-width="2"/>
+  </g>
+
+  <g>
+    <circle cx="415" cy="83" r="14" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="3,2"/>
+    <text x="435" y="75" font-family="'Outfit', sans-serif" font-size="11" font-weight="bold" fill="#dc2626">ST Elevation (+3.5 mm)</text>
+    <circle cx="715" cy="80" r="14" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="3,2"/>
+    <text x="735" y="75" font-family="'Outfit', sans-serif" font-size="11" font-weight="bold" fill="#dc2626">ST Elevation (Lead III &gt; II)</text>
+    <circle cx="715" cy="194" r="14" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="3,2"/>
+    <text x="735" y="190" font-family="'Outfit', sans-serif" font-size="11" font-weight="bold" fill="#dc2626">ST Elevation</text>
+    <circle cx="415" cy="223" r="14" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-dasharray="3,2"/>
+    <text x="435" y="235" font-family="'Outfit', sans-serif" font-size="11" font-weight="bold" fill="#2563eb">Reciprocal ST Depression</text>
+    <circle cx="715" cy="307" r="14" fill="none" stroke="#d97706" stroke-width="2.5" stroke-dasharray="3,2"/>
+    <text x="735" y="305" font-family="'Outfit', sans-serif" font-size="11" font-weight="bold" fill="#d97706">ST Elevation in V4R (RV Infarct)</text>
+  </g>
+</svg>

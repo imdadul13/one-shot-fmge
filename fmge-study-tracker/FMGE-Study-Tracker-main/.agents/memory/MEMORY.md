@@ -1,0 +1,1 @@
+- [Gemini model availability](gemini-model-availability.md) — this environment may reject older Gemini model IDs for newly provisioned API keys; use the model named by the live API error.

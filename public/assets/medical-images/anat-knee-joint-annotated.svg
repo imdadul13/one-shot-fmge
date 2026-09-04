@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" width="100%" height="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" width="100%" height="100%">
+  <rect width="600" height="500" fill="#0f172a"/>
+  
+  <!-- Distal Femur with Condyles -->
+  <path d="M 200 40 L 200 160 Q 180 230 220 250 Q 270 260 300 210 Q 330 260 380 250 Q 420 230 400 160 L 400 40 Z" fill="#334155" stroke="#64748b" stroke-width="3"/>
+  <text x="300" y="100" font-family="'Outfit', sans-serif" font-size="14" font-weight="bold" fill="#94a3b8" text-anchor="middle">FEMUR</text>
+
+  <!-- Proximal Tibia with Tibial Plateau -->
+  <path d="M 180 320 Q 300 300 420 320 L 370 460 L 230 460 Z" fill="#334155" stroke="#64748b" stroke-width="3"/>
+  <text x="300" y="420" font-family="'Outfit', sans-serif" font-size="14" font-weight="bold" fill="#94a3b8" text-anchor="middle">TIBIA</text>
+
+  <!-- Fibula on Lateral Side -->
+  <path d="M 170 350 Q 150 360 140 400 L 150 460 L 175 460 L 175 355 Z" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+  <text x="130" y="440" font-family="'Outfit', sans-serif" font-size="11" fill="#64748b">Fibula (L)</text>
+
+  <!-- Medial Meniscus (C-shaped, fixed) & Lateral Meniscus (O-shaped) -->
+  <ellipse cx="235" cy="300" rx="35" ry="10" fill="#0284c7" opacity="0.8"/>
+  <ellipse cx="365" cy="300" rx="30" ry="10" fill="#0284c7" opacity="0.8"/>
+
+  <!-- Anterior Cruciate Ligament (ACL) - Crossing from Anterior Tibia to Lateral Femoral Condyle -->
+  <path d="M 285 305 L 360 215" stroke="#fbbf24" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- Posterior Cruciate Ligament (PCL) - Posterior Tibia to Medial Femoral Condyle -->
+  <path d="M 315 305 L 240 215" stroke="#d97706" stroke-width="10" stroke-linecap="round" opacity="0.85"/>
+
+  <!-- Collateral Ligaments: LCL & MCL -->
+  <path d="M 175 220 L 160 350" stroke="#e2e8f0" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 405 210 L 415 340" stroke="#e2e8f0" stroke-width="8" stroke-linecap="round"/>
+
+  <g font-family="'Outfit', sans-serif" font-size="12" font-weight="bold">
+    <!-- ACL Marker -->
+    <path d="M 320 260 L 430 240" stroke="#fbbf24" stroke-width="2"/>
+    <text x="440" y="245" fill="#fbbf24">Anterior Cruciate Ligament (ACL)</text>
+    <text x="440" y="260" fill="#fef08a" font-size="10">LAMP: Lateral Condyle &lt;- Anterior Tibia</text>
+
+    <!-- PCL Marker -->
+    <path d="M 270 260 L 160 250" stroke="#d97706" stroke-width="2"/>
+    <text x="40" y="245" fill="#d97706">Posterior Cruciate Ligament (PCL)</text>
+
+    <!-- Meniscus Marker -->
+    <text x="430" y="315" fill="#38bdf8">Medial Meniscus (C-shaped, fixed to MCL)</text>
+  </g>
+</svg>

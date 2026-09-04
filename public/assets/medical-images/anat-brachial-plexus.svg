@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="100%" height="100%">
+  <rect width="800" height="480" fill="#0f172a"/>
+  
+  <!-- Section Headers (Subtle, Non-Revealing Grid) -->
+  <line x1="160" y1="40" x2="160" y2="440" stroke="#334155" stroke-dasharray="4,4"/>
+  <line x1="300" y1="40" x2="300" y2="440" stroke="#334155" stroke-dasharray="4,4"/>
+  <line x1="440" y1="40" x2="440" y2="440" stroke="#334155" stroke-dasharray="4,4"/>
+  <line x1="600" y1="40" x2="600" y2="440" stroke="#334155" stroke-dasharray="4,4"/>
+  <text x="90" y="30" font-family="'Courier New', monospace" font-size="12" fill="#94a3b8" text-anchor="middle">ROOTS</text>
+  <text x="230" y="30" font-family="'Courier New', monospace" font-size="12" fill="#94a3b8" text-anchor="middle">TRUNKS</text>
+  <text x="370" y="30" font-family="'Courier New', monospace" font-size="12" fill="#94a3b8" text-anchor="middle">DIVISIONS</text>
+  <text x="520" y="30" font-family="'Courier New', monospace" font-size="12" fill="#94a3b8" text-anchor="middle">CORDS</text>
+  <text x="700" y="30" font-family="'Courier New', monospace" font-size="12" fill="#94a3b8" text-anchor="middle">BRANCHES</text>
+
+  <!-- Roots (C5 - T1) -->
+  <g font-family="'Outfit', sans-serif" font-size="14" font-weight="bold" fill="#f8fafc">
+    <text x="30" y="95">C5</text>
+    <text x="30" y="165">C6</text>
+    <text x="30" y="245">C7</text>
+    <text x="30" y="325">C8</text>
+    <text x="30" y="395">T1</text>
+  </g>
+
+  <!-- Nerve Traces (Clean Golden Yellow Plexus Pathways) -->
+  <g fill="none" stroke="#fbbf24" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- C5 & C6 merge into Upper Trunk -->
+    <path d="M 60 90 L 160 90 Q 190 90 220 125 L 300 125"/>
+    <path d="M 60 160 L 160 160 Q 190 160 220 125"/>
+
+    <!-- C7 forms Middle Trunk -->
+    <path d="M 60 240 L 300 240"/>
+
+    <!-- C8 & T1 merge into Lower Trunk -->
+    <path d="M 60 320 L 160 320 Q 190 320 220 355 L 300 355"/>
+    <path d="M 60 390 L 160 390 Q 190 390 220 355"/>
+
+    <!-- Divisions to Lateral Cord (Upper + Middle Anterior) -->
+    <path d="M 300 125 L 440 125 L 520 160"/>
+    <path d="M 300 240 Q 370 240 440 150 L 520 160"/>
+
+    <!-- Divisions to Posterior Cord (Upper + Middle + Lower Posteriors) -->
+    <path d="M 300 125 Q 370 180 440 240 L 580 240" stroke="#f59e0b" stroke-dasharray="6,3"/>
+    <path d="M 300 240 L 440 240" stroke="#f59e0b" stroke-dasharray="6,3"/>
+    <path d="M 300 355 Q 370 300 440 240" stroke="#f59e0b" stroke-dasharray="6,3"/>
+
+    <!-- Divisions to Medial Cord (Lower Anterior) -->
+    <path d="M 300 355 L 440 355 L 520 320"/>
+
+    <!-- Terminal Branches from Lateral Cord: Musculocutaneous & Median Lateral Root -->
+    <path d="M 520 160 L 620 120 L 760 120"/>
+    <path d="M 520 160 L 620 200 L 680 240 L 760 240"/>
+
+    <!-- Terminal Branches from Posterior Cord: Axillary & Radial -->
+    <path d="M 580 240 L 650 200 L 760 180"/>
+    <path d="M 580 240 L 760 260"/>
+
+    <!-- Terminal Branches from Medial Cord: Ulnar & Median Medial Root -->
+    <path d="M 520 320 L 680 240"/>
+    <path d="M 520 320 L 620 360 L 760 360"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 400" width="100%" height="100%">
+  <defs>
+    <pattern id="wpwSmall" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#fecdd3" stroke-width="0.5"/>
+    </pattern>
+    <pattern id="wpwGrid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <rect width="50" height="50" fill="url(#wpwSmall)"/>
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#fda4af" stroke-width="1.2"/>
+    </pattern>
+  </defs>
+  <rect width="920" height="400" fill="#fff1f2"/>
+  <rect width="920" height="400" fill="url(#wpwGrid)"/>
+  <text x="25" y="30" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#64748b">LEAD V2 TRACING · 25 mm/sec · 10 mm/mV</text>
+
+  <!-- WPW Waveform with short PR (<120ms) and slurred upstroke delta wave -->
+  <path d="
+    M 30 200 L 90 200 Q 105 180 120 200 L 132 200 
+    L 155 155 L 165 40 L 175 240 L 185 200 L 205 220 Q 230 230 255 200 L 330 200
+    Q 345 180 360 200 L 372 200
+    L 395 155 L 405 40 L 415 240 L 425 200 L 445 220 Q 470 230 495 200 L 570 200
+    Q 585 180 600 200 L 612 200
+    L 635 155 L 645 40 L 655 240 L 665 200 L 685 220 Q 710 230 735 200 L 880 200
+  " fill="none" stroke="#0f172a" stroke-width="2.6"/>
+</svg>

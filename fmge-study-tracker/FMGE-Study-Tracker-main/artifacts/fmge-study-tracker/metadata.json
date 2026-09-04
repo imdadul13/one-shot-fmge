@@ -1,0 +1,6 @@
+{
+  "name": "FMGE Study Tracker",
+  "description": "Comprehensive Foreign Medical Graduate Examination (FMGE / NExT) preparation tracker with 19 medical subjects, Telegram live MCQ channel sync, topic-wise question extraction, revision cycles, GT analytics, and AI medical mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

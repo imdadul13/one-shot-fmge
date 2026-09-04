@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="100%" height="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="100%" height="100%">
+  <rect width="500" height="400" fill="#0f172a"/>
+  <!-- Fundus Circular Aperture -->
+  <circle cx="250" cy="200" r="180" fill="#991b1b" stroke="#1e293b" stroke-width="10"/>
+  <text x="250" y="30" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#f8fafc" text-anchor="middle">FUNDOSCOPY · POSTERIOR POLE (CENTRAL RETINA)</text>
+
+  <!-- Swollen Hyperemic Optic Disc with blurred margins -->
+  <circle cx="170" cy="200" r="30" fill="#f87171" opacity="0.9"/>
+
+  <!-- Extremely Engorged, Dilated, Tortuous Retinal Veins radiating in all 4 quadrants -->
+  <path d="M 170 200 Q 150 140 120 80" stroke="#7f1d1d" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M 170 200 Q 230 130 330 90" stroke="#7f1d1d" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <path d="M 170 200 Q 160 270 110 330" stroke="#7f1d1d" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M 170 200 Q 250 260 350 310" stroke="#7f1d1d" stroke-width="9" fill="none" stroke-linecap="round"/>
+
+  <!-- Widespread Flame-shaped Retinal Hemorrhages (Blood and Thunder) -->
+  <g fill="#450a0a">
+    <ellipse cx="230" cy="140" rx="30" ry="12" transform="rotate(-20 230 140)"/>
+    <ellipse cx="290" cy="160" rx="40" ry="15" transform="rotate(15 290 160)"/>
+    <ellipse cx="260" cy="230" rx="35" ry="14" transform="rotate(30 260 230)"/>
+    <ellipse cx="320" cy="220" rx="45" ry="18" transform="rotate(-10 320 220)"/>
+    <ellipse cx="140" cy="260" rx="25" ry="10" transform="rotate(45 140 260)"/>
+    <ellipse cx="200" cy="290" rx="35" ry="12" transform="rotate(-30 200 290)"/>
+  </g>
+
+  <!-- Soft Exudates (Cotton Wool Spots - White Patches) -->
+  <g fill="#f8fafc" opacity="0.85">
+    <ellipse cx="210" cy="170" rx="10" ry="7"/>
+    <ellipse cx="280" cy="190" rx="12" ry="8"/>
+    <ellipse cx="190" cy="240" rx="9" ry="6"/>
+  </g>
+
+  <g font-family="'Outfit', sans-serif" font-size="11" font-weight="bold" fill="#fef08a">
+    <text x="130" y="70">Widespread Flame Hemorrhages in all 4 quadrants</text>
+    <text x="120" y="360">Engorged tortuous veins + Papilledema ("Blood &amp; Thunder Fundus")</text>
+    <text x="140" y="380" fill="#34d399">Diagnosis: Central Retinal Vein Occlusion (CRVO)</text>
+  </g>
+</svg>

@@ -1,0 +1,1243 @@
+[
+  {
+    "id": "fmge_ibq_1",
+    "subject": "Pathology",
+    "topic": "Reed-Sternberg cells (Hodgkin Lymphoma)",
+    "imageSrc": "/images/ibq/pathology_reed_sternberg.jpg",
+    "vignette": "A 24-year-old male presents with painless cervical lymphadenopathy, low-grade fever, and night sweats. A lymph node biopsy section is shown in the image. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hodgkin lymphoma"
+      },
+      {
+        "id": "B",
+        "text": "Burkitt lymphoma"
+      },
+      {
+        "id": "C",
+        "text": "Follicular lymphoma"
+      },
+      {
+        "id": "D",
+        "text": "Diffuse large B-cell lymphoma"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Classic Reed-Sternberg (RS) cells with prominent bilobed nuclei and owl-eye nucleoli, set within a rich background of non-neoplastic eosinophils, lymphocytes, and plasma cells.",
+      "highYieldBuzzwords": [
+        "Reed-Sternberg cell",
+        "Owl-eye appearance",
+        "Eosinophil-rich background",
+        "CD30 and CD15 positivity"
+      ],
+      "detailedRationale": "The histologic slide demonstrates Classical Hodgkin Lymphoma, characterized by large binucleated Reed-Sternberg (RS) cells with prominent, inclusion-like nucleoli ('owl-eye' appearance) surrounded by a mixed reactive background including prominent eosinophils, lymphocytes, and histiocytes. Burkitt lymphoma features uniform medium-sized cells with a high mitotic rate and 'starry-sky' appearance due to tingible-body macrophages. Follicular lymphoma is characterized by packed neoplastic lymphoid follicles lacking RS cells. Diffuse Large B-cell Lymphoma shows diffuse sheets of large transformed B-cells disrupting lymph node architecture."
+    }
+  },
+  {
+    "id": "fmge_ibq_2",
+    "subject": "Pathology",
+    "topic": "Owl eye inclusion (Cytomegalovirus)",
+    "imageSrc": "/images/ibq/pathology_cmv_owl_eye.jpg",
+    "vignette": "A 38-year-old renal transplant recipient on triple immunosuppressive therapy presents with fever, dry cough, and progressive dyspnea. A lung biopsy is performed, and histological examination of the tissue is shown in the image. What is the most likely causative pathogen?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cytomegalovirus"
+      },
+      {
+        "id": "B",
+        "text": "Herpes simplex virus"
+      },
+      {
+        "id": "C",
+        "text": "Epstein-Barr virus"
+      },
+      {
+        "id": "D",
+        "text": "Adenovirus"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Enlarged cell (cytomegaly) containing a large, dark, basophilic intranuclear inclusion body surrounded by a distinct halo, producing a classic 'owl's eye' appearance.",
+      "highYieldBuzzwords": [
+        "Owl's eye inclusion",
+        "Cytomegaly",
+        "Basophilic intranuclear inclusion",
+        "Transplant patient pneumonia"
+      ],
+      "detailedRationale": "The image demonstrates the pathognomonic 'owl's eye' intranuclear inclusion characteristic of Cytomegalovirus (CMV) infection. CMV is a major cause of opportunistic pneumonia, esophagitis, and retinitis in immunocompromised hosts, such as post-transplant patients. Herpes simplex virus (HSV) typically shows nuclear molding, multinucleation, and chromatin marginalization with Cowdry A inclusions. Epstein-Barr virus (EBV) is associated with atypical reactive T lymphocytes (Downey cells) in peripheral blood. Adenovirus produces dense basophilic intranuclear 'smudge cells'."
+    }
+  },
+  {
+    "id": "fmge_ibq_3",
+    "subject": "Pathology",
+    "topic": "Sickle cells (Sickle Cell Disease)",
+    "imageSrc": "/images/ibq/pathology_sickle_cells.jpg",
+    "vignette": "A 10-year-old boy presents to the emergency department with severe pain in his arms, legs, and abdomen. The schematic diagram illustrates the physiological mechanism causing his microvascular occlusion. What is the underlying molecular defect responsible for this condition?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Substitution of glutamic acid by valine at position 6 of the β-globin chain"
+      },
+      {
+        "id": "B",
+        "text": "Substitution of valine by glutamic acid at position 6 of the β-globin chain"
+      },
+      {
+        "id": "C",
+        "text": "Substitution of glutamic acid by lysine at position 6 of the β-globin chain"
+      },
+      {
+        "id": "D",
+        "text": "Deletion of α-globin genes on chromosome 16 causing impaired synthesis"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Illustration contrasting normal biconcave RBCs with sickle-shaped RBCs showing abnormal hemoglobin polymer strands blocking a blood vessel.",
+      "highYieldBuzzwords": [
+        "Sickle cell anemia",
+        "Glutamic acid to Valine mutation",
+        "HbS polymerization",
+        "Vaso-occlusive crisis"
+      ],
+      "detailedRationale": "The image illustrates Sickle Cell Disease (SCD), an autosomal recessive disorder caused by a single point mutation (GAG to GTG) in the HBB gene on chromosome 11. This results in the substitution of hydrophilic glutamic acid with hydrophobic valine at the 6th position of the beta-globin chain. Under low oxygen tension, deoxygenated HbS polymerizes into long strands that distort the cell membrane into a crescent/sickle shape, causing microvascular occlusion and ischemia.\n\n- Option B reverses the amino acid change.\n- Option C describes Hemoglobin C (HbC) disease.\n- Option D describes alpha-thalassemia."
+    }
+  },
+  {
+    "id": "fmge_ibq_4",
+    "subject": "Radiology",
+    "topic": "Double bubble sign (Duodenal Atresia)",
+    "imageSrc": "/images/ibq/radiology_double_bubble_sign.jpg",
+    "vignette": "A 1-day-old male newborn presents with persistent bilious vomiting starting shortly after birth. The pregnancy was complicated by polyhydramnios on maternal ultrasound. Physical examination reveals a non-distended lower abdomen. A plain abdominal radiograph is obtained and shown in the image. Which of the following is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Duodenal atresia"
+      },
+      {
+        "id": "B",
+        "text": "Congenital hypertrophic pyloric stenosis"
+      },
+      {
+        "id": "C",
+        "text": "Esophageal atresia"
+      },
+      {
+        "id": "D",
+        "text": "Meconium ileus"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Plain abdominal radiograph demonstrates the classic 'double bubble sign'—two air-filled fluid-filled structures in the upper abdomen representing the distended stomach (left) and the dilated proximal duodenum (right), with complete absence of distal intestinal bowel gas.",
+      "highYieldBuzzwords": [
+        "Double bubble sign",
+        "Duodenal atresia",
+        "Polyhydramnios",
+        "Bilious vomiting in newborn",
+        "Down syndrome (Trisomy 21)"
+      ],
+      "detailedRationale": "The radiograph demonstrates the pathognomonic 'double bubble sign' characteristic of duodenal atresia. This results from failure of recanalization of the lumen of the fetal duodenum. It presents with polyhydramnios antenatally and postnatally with bilious vomiting on the first day of life. Approximately 30% of affected infants have Down syndrome (Trisomy 21).\n\nOption B (Hypertrophic pyloric stenosis) presents later (3 to 6 weeks of age) with non-bilious projectile vomiting and a single large gastric air bubble ('single bubble sign').\nOption C (Esophageal atresia) presents immediately after feeding with coughing, choking, cyanosis, and inability to pass a nasogastric tube into the stomach.\nOption D (Meconium ileus) presents with distal intestinal obstruction, microcolon, and a 'soap-bubble' appearance (Neuhauser sign) in the right lower quadrant, strongly associated with Cystic Fibrosis."
+    }
+  },
+  {
+    "id": "fmge_ibq_5",
+    "subject": "Radiology",
+    "topic": "Coffee bean sign (Sigmoid Volvulus)",
+    "imageSrc": "/images/ibq/radiology_coffee_bean_sign.jpg",
+    "vignette": "A 72-year-old institutionalized male with a history of chronic constipation presents with progressive abdominal distension, severe abdominal crampy pain, and obstipation for the past two days. An abdominal radiograph is obtained and shown in the image. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sigmoid volvulus"
+      },
+      {
+        "id": "B",
+        "text": "Cecal volvulus"
+      },
+      {
+        "id": "C",
+        "text": "Ogilvie's syndrome"
+      },
+      {
+        "id": "D",
+        "text": "Toxic megacolon"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "The abdominal radiograph demonstrates a massively dilated loop of the sigmoid colon with a thick central band representing the apposed inner walls of the loop, projecting upward from the pelvis. This is the classic pathognomonic 'coffee bean' or 'bent inner tube' sign.",
+      "highYieldBuzzwords": [
+        "Coffee bean sign",
+        "Bent inner tube sign",
+        "Sigmoid volvulus",
+        "Obstipation",
+        "Frimann-Dahl sign"
+      ],
+      "detailedRationale": "Sigmoid volvulus is the torsion of the sigmoid colon around its mesenteric axis, resulting in a closed-loop bowel obstruction. It typically occurs in elderly, debilitated, or institutionalized patients with a history of chronic constipation. On abdominal radiography, the dilated sigmoid colon resembles a 'coffee bean' or 'bent inner tube' arising from the pelvis. Cecal volvulus (Option B) typically shows a 'comma-shaped' or 'teardrop' loop of gas pointing toward the left upper quadrant, with the absence of gas in the right lower quadrant. Ogilvie's syndrome (Option C), or acute colonic pseudo-obstruction, presents with massive colonic dilation without mechanical obstruction or a closed-loop appearance. Toxic megacolon (Option D) is characterized by severe non-obstructive colonic dilation associated with systemic toxicity, typically complicating ulcerative colitis or Clostridioides difficile infection."
+    }
+  },
+  {
+    "id": "fmge_ibq_6",
+    "subject": "Radiology",
+    "topic": "Pneumoperitoneum (Free air under diaphragm)",
+    "imageSrc": "/images/ibq/radiology_pneumoperitoneum.jpg",
+    "vignette": "A 45-year-old male with a history of chronic NSAID use presents to the emergency department with sudden-onset, severe, generalized abdominal pain. On physical examination, the abdomen is rigid and board-like with diffuse tenderness and guarding. An erect chest X-ray is obtained and shown in the image. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hollow viscus perforation"
+      },
+      {
+        "id": "B",
+        "text": "Acute pancreatitis"
+      },
+      {
+        "id": "C",
+        "text": "Amoebic liver abscess"
+      },
+      {
+        "id": "D",
+        "text": "Diaphragmatic hernia"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "An erect chest radiograph demonstrating a crescentic radiolucent shadow (free air) underneath the right dome of the diaphragm, highlighted by the black arrow.",
+      "highYieldBuzzwords": [
+        "Pneumoperitoneum",
+        "Free air under diaphragm",
+        "Hollow viscus perforation",
+        "Board-like rigidity"
+      ],
+      "detailedRationale": "The radiograph demonstrates a classic case of pneumoperitoneum, evidenced by the presence of free air under the right hemidiaphragm (crescentic lucency beneath the dome of the diaphragm). In a patient presenting with sudden-onset, severe abdominal pain, guarding, and board-like rigidity, this finding is pathognomonic for a gastrointestinal/hollow viscus perforation (such as a perforated peptic ulcer). Acute pancreatitis does not present with free intraperitoneal air. Amoebic liver abscess may cause right dome elevation or pleural effusion but not subdiaphragmatic free air. Diaphragmatic hernia would show bowel gas patterns or a fluid level inside the thoracic cavity rather than a clean subdiaphragmatic crescent of free air."
+    }
+  },
+  {
+    "id": "fmge_ibq_7",
+    "subject": "Radiology",
+    "topic": "Pleural effusion (Costophrenic blunting)",
+    "imageSrc": "/images/ibq/radiology_pleural_effusion.jpg",
+    "vignette": "A 48-year-old male presents with fever, pleuritic chest pain, and progressive shortness of breath. Physical examination reveals dullness to percussion and decreased breath sounds at the right lung base. A lateral decubitus chest X-ray is performed (shown in the image) to evaluate for a pleural effusion. What is the minimum thickness of the fluid layer (indicated by 'A') required to safely perform a diagnostic thoracentesis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 mm"
+      },
+      {
+        "id": "B",
+        "text": "5 mm"
+      },
+      {
+        "id": "C",
+        "text": "20 mm"
+      },
+      {
+        "id": "D",
+        "text": "30 mm"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Lateral decubitus chest radiograph demonstrating free-flowing pleural effusion layering along the dependent chest wall (indicated by arrow A).",
+      "highYieldBuzzwords": [
+        "Lateral decubitus radiograph",
+        "Thoracentesis safety threshold",
+        "10 mm rule",
+        "Free-flowing effusion"
+      ],
+      "detailedRationale": "A lateral decubitus chest radiograph is an excellent tool to evaluate small pleural effusions and confirm if they are free-flowing. The letter 'A' represents the thickness of the pleural fluid layer layering along the dependent thoracic wall. According to clinical guidelines, a minimum thickness of 10 mm (1 cm) is required on a lateral decubitus view to safely perform a diagnostic thoracentesis. If the thickness is less than 10 mm, the risk of accidental lung puncture causing pneumothorax is unacceptably high, and the fluid volume is typically too small to warrant an invasive procedure."
+    }
+  },
+  {
+    "id": "fmge_ibq_8",
+    "subject": "Radiology",
+    "topic": "Miliary tuberculosis",
+    "imageSrc": "/images/ibq/radiology_miliary_tuberculosis.jpg",
+    "vignette": "A 32-year-old HIV-positive male presents with a history of chronic low-grade fever, non-productive cough, progressive weight loss, and drenching night sweats for the past 2 months. Despite intensive supportive care, his condition deteriorated rapidly, leading to respiratory failure and death. An autopsy was performed, and the cut section of the lung is shown in the image. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Miliary tuberculosis"
+      },
+      {
+        "id": "B",
+        "text": "Silicosis"
+      },
+      {
+        "id": "C",
+        "text": "Lobar pneumonia"
+      },
+      {
+        "id": "D",
+        "text": "Coal workers' pneumoconiosis"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "The gross specimen of the cut surface of the lung demonstrates innumerable, tiny (1 to 2 mm), discrete, yellowish-white nodules uniformly distributed throughout the entire lung parenchyma, mimicking millet seeds.",
+      "highYieldBuzzwords": [
+        "Millet seeds",
+        "Hematogenous dissemination",
+        "Miliary tuberculosis",
+        "Caseating granulomas"
+      ],
+      "detailedRationale": "The image classically depicts miliary tuberculosis of the lung. This condition occurs due to the hematogenous spread of Mycobacterium tuberculosis, leading to the formation of multiple tiny, discrete, yellowish-white lesions resembling millet seeds throughout the lung parenchyma (and often other organs like the spleen, liver, and bone marrow). Silicosis (Option B) presents with hard, collagenous, fibrotic nodules that are typically darker and concentrated in the upper lobes. Lobar pneumonia (Option C) is characterized by diffuse consolidation of an entire lobe during phases of hepatization, rather than discrete micro-nodules. Coal workers' pneumoconiosis (Option D) shows black-pigmented coal macules and nodules concentrated around bronchioles."
+    }
+  },
+  {
+    "id": "fmge_ibq_9",
+    "subject": "Pathology",
+    "topic": "Auer rods (Acute Myeloid Leukemia)",
+    "imageSrc": "/images/ibq/pathology_auer_rods.jpg",
+    "vignette": "A 32-year-old female presents with fever, generalized weakness, and bleeding gums. Physical examination reveals petechiae on her extremities. Laboratory evaluation shows a hemoglobin of 8.2 g/dL, platelet count of 28,000/µL, and a total leukocyte count of 18,000/µL with prolonged PT and APTT. A bone marrow aspirate smear is shown in the image. Which of the following cytogenetic abnormalities is most characteristically associated with this condition?",
+    "options": [
+      {
+        "id": "A",
+        "text": "t(15;17)"
+      },
+      {
+        "id": "B",
+        "text": "t(8;21)"
+      },
+      {
+        "id": "C",
+        "text": "t(9;22)"
+      },
+      {
+        "id": "D",
+        "text": "inv(16)"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "The bone marrow smear shows leukemic promyelocytes containing numerous needle-like crystalline cytoplasmic inclusions grouped in bundles, classically referred to as Auer rods ('faggot cells'), which are highly characteristic of Acute Promyelocytic Leukemia (APML/AML-M3).",
+      "highYieldBuzzwords": [
+        "Auer rods",
+        "Faggot cells",
+        "t(15;17)",
+        "PML-RARA",
+        "APML (AML-M3)",
+        "DIC complication"
+      ],
+      "detailedRationale": "The presence of bundles of Auer rods ('faggot cells') is pathognomonic for Acute Promyelocytic Leukemia (APML, AML-M3). APML is consistently associated with the t(15;17) translocation, which fuses the PML gene on chromosome 15 to the retinoic acid receptor alpha (RARA) gene on chromosome 17. This fusion protein blocks myeloid differentiation, which can be overcome therapeutically using All-Trans Retinoic Acid (ATRA). Distractors: t(8;21) is associated with AML-M2; t(9;22) is the Philadelphia chromosome associated with Chronic Myelogenous Leukemia (CML) and B-ALL; inv(16) is associated with AML-M4eo (acute myelomonocytic leukemia with eosinophilia)."
+    }
+  },
+  {
+    "id": "fmge_ibq_10",
+    "subject": "Pathology",
+    "topic": "Psammoma bodies (Papillary Thyroid Ca)",
+    "imageSrc": "/images/ibq/pathology_psammoma_bodies.jpg",
+    "vignette": "A 34-year-old female presents with a painless, firm, solitary thyroid nodule that has slowly increased in size over the past 6 months. She has a history of childhood neck radiation for a benign condition. Fine-needle aspiration cytology (FNAC) of the nodule is performed, demonstrating the cytological features shown in the image. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Papillary thyroid carcinoma"
+      },
+      {
+        "id": "B",
+        "text": "Follicular thyroid carcinoma"
+      },
+      {
+        "id": "C",
+        "text": "Medullary thyroid carcinoma"
+      },
+      {
+        "id": "D",
+        "text": "Anaplastic thyroid carcinoma"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "The provided image illustrates the classic cytological features of Papillary Thyroid Carcinoma (PTC), highlighting papillary formations, crowded overlapping nuclei, concentric lamellated calcifications known as Psammoma bodies, nuclear pseudoinclusions, nuclear grooves, and central clearing (Orphan Annie eye nuclei).",
+      "highYieldBuzzwords": [
+        "Psammoma bodies",
+        "Nuclear grooves",
+        "Orphan Annie eye nuclei",
+        "Nuclear pseudoinclusions"
+      ],
+      "detailedRationale": "Papillary thyroid carcinoma (PTC) is the most common type of thyroid malignancy and is strongly associated with prior radiation exposure. Pathognomonic cytological and histological features include: 1) Optically clear or empty-appearing nuclei ('Orphan Annie eye' nuclei / central clearing) due to margination of chromatin; 2) Invaginations of the cytoplasm into the nucleus creating nuclear pseudoinclusions; 3) Longitudinal nuclear grooves; and 4) Psammoma bodies, which are concentric, laminated calcified structures representing necrotic papillae. Follicular carcinoma (B) lacks these diagnostic nuclear features and psammoma bodies. Medullary carcinoma (C) is characterized by amyloid stroma (calcitonin deposits) and spindle-to-plasmacytoid cells. Anaplastic carcinoma (D) shows highly pleomorphic giant cells, mitotic figures, and necrosis."
+    }
+  },
+  {
+    "id": "fmge_ibq_11",
+    "subject": "Pathology",
+    "topic": "Caseous necrosis (Tuberculosis granuloma)",
+    "imageSrc": "/images/ibq/pathology_caseous_necrosis.jpg",
+    "vignette": "A 34-year-old male presents with a 3-month history of chronic cough, low-grade evening fever, night sweats, and significant weight loss. Physical examination reveals painless cervical lymphadenopathy. A biopsy of the lymph node is performed, and the histopathological findings are shown in the image. Which of the following types of necrosis is shown?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Caseous necrosis"
+      },
+      {
+        "id": "B",
+        "text": "Coagulative necrosis"
+      },
+      {
+        "id": "C",
+        "text": "Liquefactive necrosis"
+      },
+      {
+        "id": "D",
+        "text": "Fibrinoid necrosis"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "The image shows caseous necrosis characterized by a structureless, amorphous, eosinophilic (pink) granular area with loss of cellular details, bordered by a granulomatous inflammatory reaction including Langhans giant cells (visible in the lower left corner with peripheral horseshoe-shaped nuclei).",
+      "highYieldBuzzwords": [
+        "Caseous necrosis",
+        "Langhans giant cell",
+        "Epithelioid histiocytes",
+        "Tuberculosis"
+      ],
+      "detailedRationale": "Caseous necrosis is a form of cell death characteristic of tuberculous infections. On H&E staining, it is distinguished by a complete loss of cellular architecture, resulting in an amorphous, granular, pink debris. It is typically surrounded by a granulomatous rim of epithelioid histiocytes, lymphocytes, and Langhans multinucleated giant cells. In contrast, coagulative necrosis (Option B) preserves basic cell outlines ('tombstone appearance') for several days. Liquefactive necrosis (Option C) results in complete digestion of dead cells, turning tissue into a liquid mass typical of bacterial abscesses or brain infarcts. Fibrinoid necrosis (Option D) is characterized by immune complex deposition in blood vessel walls, appearing as a bright pink, glassy, ring-like structure."
+    }
+  },
+  {
+    "id": "fmge_ibq_12",
+    "subject": "Pathology",
+    "topic": "Sickle cells (Sickle Cell Anemia)",
+    "imageSrc": "/images/ibq/pathology_sickle_cells.jpg",
+    "vignette": "A 10-year-old boy of Central Indian origin presents to the pediatric emergency department with severe, agonizing bone pain in his lower limbs and painful swelling of his hands and feet (dactylitis) following a mild respiratory tract infection. The diagram depicts the pathophysiology of his underlying hematological disorder. Which of the following best describes the primary molecular defect responsible for this condition?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Substitution of glutamic acid by valine at position 6 of the beta-globin chain"
+      },
+      {
+        "id": "B",
+        "text": "Substitution of glutamic acid by lysine at position 6 of the beta-globin chain"
+      },
+      {
+        "id": "C",
+        "text": "Deletion of three base pairs encoding phenylalanine at position 508"
+      },
+      {
+        "id": "D",
+        "text": "Premature stop codon mutation resulting in reduced synthesis of beta-globin chains"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "The image clearly depicts the comparison between normal biconcave red blood cells (A) and sickle-shaped abnormal red blood cells (B). Under low-oxygen tension, the abnormal hemoglobin molecules form long, rigid strands/polymers that deform the cell membrane into a sickle shape, leading to vaso-occlusion in blood vessels.",
+      "highYieldBuzzwords": [
+        "Sickle cell anemia",
+        "Glutamic acid to Valine substitution",
+        "Vaso-occlusive crisis",
+        "Hemoglobin S polymerization",
+        "Dactylitis"
+      ],
+      "detailedRationale": "The patient is presenting with a classic vaso-occlusive crisis (pain crisis and dactylitis) of Sickle Cell Anemia (HbS). The molecular basis of sickle cell anemia is a point mutation in the sixth codon of the beta-globin gene on chromosome 11, resulting in the substitution of a hydrophilic glutamic acid residue with a hydrophobic valine residue. Under deoxygenated conditions, this hydrophobic valine interacts with complementary sites on other beta chains, causing the hemoglobin S molecules to polymerize into long, insoluble fibrous strands that distort the red blood cell into a characteristic sickle shape. Option B describes Hemoglobin C disease. Option C describes the most common mutation in Cystic Fibrosis (delta F508). Option D describes beta-thalassemia major/minor."
+    }
+  },
+  {
+    "id": "fmge_ibq_13",
+    "subject": "Pathology",
+    "topic": "Crescentic glomerulonephritis (RPGN)",
+    "imageSrc": "/images/ibq/pathology_crescentic_glomerulonephritis.jpg",
+    "vignette": "A 45-year-old male presents with a two-week history of rapidly progressive oliguria, hematuria, and facial puffiness. Laboratory investigations reveal a sudden elevation of serum creatinine from 1.0 mg/dL to 5.8 mg/dL. A renal biopsy is performed, and the histopathological image is shown below. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rapidly progressive (crescentic) glomerulonephritis"
+      },
+      {
+        "id": "B",
+        "text": "Membranous nephropathy"
+      },
+      {
+        "id": "C",
+        "text": "Minimal change disease"
+      },
+      {
+        "id": "D",
+        "text": "Diabetic glomerulosclerosis"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "A prominent cellular crescent within Bowman's space compressing the glomerular tuft, composed of proliferating parietal epithelial cells, macrophages, and fibrin deposition.",
+      "highYieldBuzzwords": [
+        "Cellular crescents",
+        "Bowman's space",
+        "Parietal epithelial cell proliferation",
+        "Rapidly progressive renal failure"
+      ],
+      "detailedRationale": "The histopathological image classically demonstrates a cellular crescent within Bowman's space, which is the hallmark of Rapidly Progressive Glomerulonephritis (RPGN) or Crescentic Glomerulonephritis. These crescents are formed by the proliferation of parietal epithelial cells lining Bowman's capsule and the migration of monocytes/macrophages into Bowman's space, typically triggered by leaks of fibrinogen through a ruptured glomerular basement membrane. Membranous nephropathy (Option B) is characterized by diffuse capillary wall thickening without cellular proliferation. Minimal change disease (Option C) shows normal-appearing glomeruli on light microscopy. Diabetic glomerulosclerosis (Option D) is characterized by mesangial expansion and Kimmelstiel-Wilson nodules."
+    }
+  },
+  {
+    "id": "fmge_ibq_14",
+    "subject": "Dermatology",
+    "topic": "Target lesions (Erythema Multiforme)",
+    "imageSrc": "/images/ibq/dermatology_target_lesions.jpg",
+    "vignette": "A 26-year-old male presents with a sudden onset of a mildly pruritic rash in his axillae and extremities. He reports having a painful oral ulcer (cold sore) approximately 10 days ago. On examination, several erythematous papules with early concentric targetoid features are noted, as shown in the image. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Erythema multiforme"
+      },
+      {
+        "id": "B",
+        "text": "Allergic contact dermatitis"
+      },
+      {
+        "id": "C",
+        "text": "Pityriasis rosea"
+      },
+      {
+        "id": "D",
+        "text": "Tinea corporis"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Erythematous, edematous papules in the axilla showing early, classic concentric 'target' or 'iris' pattern configuration.",
+      "highYieldBuzzwords": [
+        "Target lesions",
+        "Iris lesions",
+        "Herpes simplex virus association",
+        "Erythema multiforme"
+      ],
+      "detailedRationale": "Erythema multiforme (EM) is an acute, immune-mediated condition characterized by the appearance of distinctive target-like (iris) lesions. The most common precipitating factor is an infection, specifically Herpes Simplex Virus (HSV) in up to 90% of cases, typically arising 7 to 10 days after a cold sore. The classic target lesion consists of three concentric zones: a dusky, central necrotic area (sometimes with a vesicle/bullas), a pale edematous ring, and an outer erythematous border. Contact dermatitis would typically present with eczematous, vesicular, or scaling plaques corresponding strictly to the area of allergen exposure. Pityriasis rosea presents with a herald patch followed by a 'Christmas tree' distribution of oval plaques. Tinea corporis presents with annular plaques with active, scaling borders."
+    }
+  },
+  {
+    "id": "fmge_ibq_15",
+    "subject": "Dermatology",
+    "topic": "Gottron papules (Dermatomyositis)",
+    "imageSrc": "/images/ibq/dermatology_gottron_papules.jpg",
+    "vignette": "A 45-year-old female presents with progressive, symmetrical proximal muscle weakness, stating she has difficulty climbing stairs and combing her hair. On physical examination, she has a violaceous, erythematous macular eruption on the extensor surfaces of her limbs as shown in the image. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dermatomyositis"
+      },
+      {
+        "id": "B",
+        "text": "Polymyositis"
+      },
+      {
+        "id": "C",
+        "text": "Systemic Lupus Erythematosus"
+      },
+      {
+        "id": "D",
+        "text": "Plaque Psoriasis"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Gottron's sign / Linear extensor erythema of Dermatomyositis, characterized by violaceous, erythematous patches/macules over the extensor surfaces of the limbs.",
+      "highYieldBuzzwords": [
+        "Gottron's sign",
+        "Heliotrope rash",
+        "Proximal muscle weakness",
+        "Anti-Mi-2 antibody",
+        "Dermatomyositis"
+      ],
+      "detailedRationale": "The combination of progressive, symmetrical proximal muscle weakness (indicated by difficulty climbing stairs and combing hair) and characteristic cutaneous lesions points directly to Dermatomyositis. The image depicts Gottron's sign / linear extensor erythema, which is a classic cutaneous manifestation of this condition. Polymyositis (Option B) shares the proximal muscle weakness but completely lacks the cutaneous lesions seen in dermatomyositis. Systemic Lupus Erythematosus (Option C) presents with a malar rash that spares the nasolabial folds and can cause arthralgia, but not this specific pattern of extensor violaceous erythema combined with severe proximal myopathy. Plaque psoriasis (Option D) presents with well-demarcated erythematous plaques covered by silvery-white scales on extensor surfaces and is not associated with proximal muscle weakness."
+    }
+  },
+  {
+    "id": "fmge_ibq_16",
+    "subject": "Dermatology",
+    "topic": "Psoriatic plaques (Psoriasis)",
+    "imageSrc": "/images/ibq/dermatology_psoriatic_plaques.jpg",
+    "vignette": "A 26-year-old female presents with a 6-month history of itchy, well-demarcated, erythematous plaques on her back and arms, as shown in the image. Scraping of the scales results in pinpoint bleeding points. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Psoriasis vulgaris"
+      },
+      {
+        "id": "B",
+        "text": "Lichen planus"
+      },
+      {
+        "id": "C",
+        "text": "Pityriasis rosea"
+      },
+      {
+        "id": "D",
+        "text": "Seborrheic dermatitis"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Extensive, well-demarcated, symmetrical erythematous plaques on the back and the extensor surfaces of both arms, typical of plaque psoriasis.",
+      "highYieldBuzzwords": [
+        "Auspitz sign",
+        "Koebner phenomenon",
+        "Silvery-white scales",
+        "Munro microabscesses"
+      ],
+      "detailedRationale": "The image demonstrates classic plaque psoriasis (Psoriasis vulgaris), characterized by well-demarcated, erythematous plaques covered with silvery-white scales, typically located on extensor surfaces (elbows, knees) and the back. The clinical description of pinpoint bleeding upon scraping scales refers to the Auspitz sign, which is highly characteristic of psoriasis due to dilated capillaries in elongated dermal papillae. Lichen planus presents with purple, pruritic, polygonal, flat-topped papules (the '5 Ps') and Wickham's striae. Pityriasis rosea typically begins with a 'herald patch' followed by a 'Christmas tree' distribution of smaller maculopapular lesions with collarette scaling. Seborrheic dermatitis presents with greasy, yellowish scales in areas rich in sebaceous glands, such as the scalp and face."
+    }
+  },
+  {
+    "id": "fmge_ibq_17",
+    "subject": "Dermatology",
+    "topic": "Chickenpox vesicular rash",
+    "imageSrc": "/images/ibq/dermatology_chickenpox_vesicular_rash.jpg",
+    "vignette": "A 6-year-old boy is brought to the outpatient department with a history of low-grade fever, malaise, and a highly pruritic skin eruption that started on his chest and rapidly spread to his neck and face. Physical examination reveals the rash shown in the image. What is the classic clinical hallmark of the eruption associated with this condition?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pleomorphism (different stages of lesions present simultaneously in the same area)"
+      },
+      {
+        "id": "B",
+        "text": "Monomorphism (all lesions in a given area are at the same stage of development)"
+      },
+      {
+        "id": "C",
+        "text": "Centrifugal spread sparing the trunk and face"
+      },
+      {
+        "id": "D",
+        "text": "Strict unilateral dermatomal distribution of vesicles"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Polymorphic eruption on the trunk showing erythematous macules, papules, vesicles ('dewdrops on a rose petal'), and crusted lesions at various stages of evolution simultaneously.",
+      "highYieldBuzzwords": [
+        "Pleomorphism",
+        "Dewdrops on a rose petal",
+        "Centripetal distribution",
+        "Varicella-Zoster Virus",
+        "Tzanck smear"
+      ],
+      "detailedRationale": "The image shows the classic vesicular rash of Chickenpox (Varicella), caused by the Varicella-Zoster Virus (VZV). The clinical hallmark of chickenpox is pleomorphism, where lesions in all stages of development (macules, papules, vesicles, and crusts) coexist simultaneously in the same anatomical region. This contrasts with Smallpox (Variola), which exhibits monomorphic lesions (all at the same stage of development). Chickenpox rash typically has a centripetal distribution (predominantly on the trunk, sparing the distal extremities) and is highly pruritic. Option B describes smallpox. Option C is incorrect as the rash is centripetal and heavily involves the trunk. Option D describes Herpes Zoster (shingles), which is a localized reactivation of VZV in a dermatomal pattern rather than primary chickenpox."
+    }
+  },
+  {
+    "id": "fmge_ibq_18",
+    "subject": "Microbiology",
+    "topic": "Gram-positive cocci in clusters (Staphylococcus)",
+    "imageSrc": "/images/ibq/microbiology_gram_positive_cocci_in_clusters.jpg",
+    "vignette": "A 26-year-old male intravenous drug user presents to the emergency department with high-grade fever, chest pain, and shortness of breath. On examination, a new holosystolic murmur is heard at the lower left sternal border, which increases with inspiration. Blood cultures grow the organism shown in the scanning electron micrograph. Which of the following virulence factors prevents phagocytosis by binding to the Fc portion of IgG?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Protein A"
+      },
+      {
+        "id": "B",
+        "text": "M protein"
+      },
+      {
+        "id": "C",
+        "text": "Pneumolysin"
+      },
+      {
+        "id": "D",
+        "text": "Lecithinase"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "The scanning electron micrograph (SEM) clearly demonstrates spherical bacteria (cocci) arranged in grape-like clusters, which is highly characteristic of Staphylococcus species (specifically Staphylococcus aureus).",
+      "highYieldBuzzwords": [
+        "Gram-positive cocci in clusters",
+        "Staphylococcus aureus",
+        "Protein A",
+        "Tricuspid valve endocarditis",
+        "Fc portion of IgG"
+      ],
+      "detailedRationale": "The clinical vignette describes acute infective endocarditis (tricuspid valve involvement indicated by a murmur increasing with inspiration, typical in IV drug users) caused by Staphylococcus aureus. The image shows the characteristic grape-like clusters of cocci. Protein A is a key virulence factor of S. aureus located in its cell wall. It binds specifically to the Fc portion of IgG antibodies at the complement-binding site, preventing opsonization and subsequent phagocytosis. M protein is a virulence factor for Streptococcus pyogenes. Pneumolysin is found in Streptococcus pneumoniae. Lecithinase (alpha-toxin) is produced by Clostridium perfringens."
+    }
+  },
+  {
+    "id": "fmge_ibq_19",
+    "subject": "Microbiology",
+    "topic": "Acid-fast bacilli (Tuberculosis ZN stain)",
+    "imageSrc": "/images/ibq/microbiology_acid_fast_bacilli.jpg",
+    "vignette": "A 34-year-old male presents with a chronic cough of 4 weeks duration, associated with low-grade fever, night sweats, and significant weight loss. Sputum microscopy is performed, and the staining result is shown in the image. Which of the following components of the organism's cell wall is primarily responsible for this characteristic staining property?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mycolic acid"
+      },
+      {
+        "id": "B",
+        "text": "Teichoic acid"
+      },
+      {
+        "id": "C",
+        "text": "Lipopolysaccharide"
+      },
+      {
+        "id": "D",
+        "text": "Peptidoglycan"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Bright red, slender, slightly curved rod-shaped bacilli (acid-fast bacilli) clustered against a contrasting blue background, characteristic of Mycobacterium tuberculosis on Ziehl-Neelsen (ZN) stain.",
+      "highYieldBuzzwords": [
+        "Acid-fast bacilli",
+        "Ziehl-Neelsen stain",
+        "Mycolic acid",
+        "Carbol fuchsin"
+      ],
+      "detailedRationale": "The image shows Acid-Fast Bacilli (AFB) using the Ziehl-Neelsen (ZN) stain, which is pathognomonic for Mycobacterium tuberculosis infection. The acid-fast property is due to the presence of a high concentration of mycolic acids (long-chain fatty acids) in the outer cell wall. This waxy layer prevents standard Gram stains from penetrating but binds tightly to the primary stain, carbol fuchsin. It resists decolorization by acid-alcohol (20% sulfuric acid in the case of M. tuberculosis). Teichoic acid (Option B) is unique to Gram-positive cell walls. Lipopolysaccharide (Option C) is found in the outer membrane of Gram-negative bacteria. Peptidoglycan (Option D) is present in both Gram-positive and Gram-negative cell walls but does not confer acid-fastness."
+    }
+  },
+  {
+    "id": "fmge_ibq_20",
+    "subject": "Ophthalmology",
+    "topic": "Papilledema (Raised Intracranial Pressure)",
+    "imageSrc": "/images/ibq/ophthalmology_papilledema.jpg",
+    "vignette": "A 28-year-old obese female presents with a progressive headache that is worse on waking up, transient obscurations of vision lasting for a few seconds, and pulsatile tinnitus. Fundoscopy of both eyes shows the findings illustrated in the image. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Papilledema"
+      },
+      {
+        "id": "B",
+        "text": "Optic neuritis"
+      },
+      {
+        "id": "C",
+        "text": "Anterior ischemic optic neuropathy"
+      },
+      {
+        "id": "D",
+        "text": "Central retinal vein occlusion"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "The fundus photograph demonstrates severe optic disc swelling (hyperemic optic disc) with blurred, elevated margins, obscuration of the major retinal vessels as they leave the disc, and surrounding nerve fiber layer flame-shaped hemorrhages.",
+      "highYieldBuzzwords": [
+        "Optic disc edema",
+        "Transient visual obscurations",
+        "Flame-shaped hemorrhages",
+        "Raised intracranial pressure",
+        "Obese female"
+      ],
+      "detailedRationale": "The patient's presentation of progressive headaches, transient visual obscurations, pulsatile tinnitus, and bilateral optic disc edema in an obese young female is highly characteristic of raised intracranial pressure (ICP), causing Papilledema (commonly associated with Idiopathic Intracranial Hypertension/Pseudotumor Cerebri). Optic neuritis typically presents with painful eye movements, severe acute visual loss, and a relative afferent pupillary defect (RAPD), which is usually unilateral. Anterior Ischemic Optic Neuropathy (AION) presents with sudden, painless, altitudinal visual loss in older patients, showing a pale swollen disc. Central Retinal Vein Occlusion (CRVO) displays widespread 'blood-and-thunder' retinal hemorrhages extending into all four quadrants, rather than being localized primarily to the optic nerve head."
+    }
+  },
+  {
+    "id": "fmge_ibq_21",
+    "subject": "Ophthalmology",
+    "topic": "Kayser-Fleischer ring (Wilson Disease)",
+    "imageSrc": "/images/ibq/ophthalmology_kayser_fleischer_ring.jpg",
+    "vignette": "A 18-year-old male presents with a progressive hand tremor, slurred speech, and recent-onset jaundice. On slit-lamp examination, a golden-brown ring is observed at the periphery of the cornea as shown in the image. In which corneal layer is the substance responsible for this finding primarily deposited?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Descemet's membrane"
+      },
+      {
+        "id": "B",
+        "text": "Bowman's layer"
+      },
+      {
+        "id": "C",
+        "text": "Corneal epithelium"
+      },
+      {
+        "id": "D",
+        "text": "Corneal stroma"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Kayser-Fleischer (KF) ring, characterized by a golden-brown or greenish-brown copper deposition ring at the corneal limbus.",
+      "highYieldBuzzwords": [
+        "Kayser-Fleischer ring",
+        "Descemet's membrane",
+        "Wilson's disease",
+        "ATP7B mutation",
+        "Copper deposition"
+      ],
+      "detailedRationale": "The image demonstrates a classic Kayser-Fleischer (KF) ring, which is pathognomonic for Wilson's disease (hepatolenticular degeneration). The KF ring is caused by the deposition of excess copper specifically in the Descemet's membrane of the cornea, starting near the limbus. Bowman's layer (Option B) is typically associated with calcium deposition in band keratopathy. The corneal epithelium (Option C) is the site of iron deposition seen in Fleischer rings associated with keratoconus, which should not be confused with Kayser-Fleischer rings. The corneal stroma (Option D) is involved in various lipid deposit disorders and macular corneal dystrophy, but not KF rings."
+    }
+  },
+  {
+    "id": "fmge_ibq_22",
+    "subject": "Cardiology",
+    "topic": "WPW syndrome ECG (Delta wave)",
+    "imageSrc": "/images/ibq/cardiology_wpw_syndrome_ecg.jpg",
+    "vignette": "A 24-year-old male presents to the clinic with a history of recurrent episodes of sudden-onset palpitations and lightheadedness. A magnified section of his baseline electrocardiogram (ECG) is shown in the image. What is the characteristic ECG finding demonstrated here, and what is its anatomical substrate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Delta wave caused by conduction through the Bundle of Kent"
+      },
+      {
+        "id": "B",
+        "text": "Delta wave caused by conduction through the James fibers"
+      },
+      {
+        "id": "C",
+        "text": "Epsilon wave caused by fibrofatty replacement of right ventricular myocardium"
+      },
+      {
+        "id": "D",
+        "text": "Osborn wave caused by hypothermia-induced repolarization abnormalities"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "The image highlights a single QRS complex showing pre-excitation. The slurred upstroke of the QRS complex (the Delta wave) is demarcated by the colored bars at the bottom, which signify the shortened PR interval, the slurred pre-excitation (delta wave), and the resulting widened QRS complex.",
+      "highYieldBuzzwords": [
+        "Delta wave",
+        "Bundle of Kent",
+        "Wolff-Parkinson-White (WPW) syndrome",
+        "Pre-excitation",
+        "Short PR interval"
+      ],
+      "detailedRationale": "The image shows the classic pre-excitation physiology of Wolff-Parkinson-White (WPW) syndrome. The 'Delta wave' represents early ventricular depolarization via an accessory pathway known as the Bundle of Kent. This bypasses the AV node, resulting in a shortened PR interval (<120 ms), a slurred upstroke of the QRS complex (Delta wave), and a prolonged QRS duration (>120 ms). Option B is incorrect because James fibers are associated with Lown-Ganong-Levine (LGL) syndrome, which features a short PR interval but a normal QRS complex without a delta wave. Option C refers to the Epsilon wave seen in Arrhythmogenic Right Ventricular Dysplasia (ARVD). Option D refers to Osborn (J) waves, which are seen in hypothermia."
+    }
+  },
+  {
+    "id": "fmge_ibq_23",
+    "subject": "Radiology",
+    "topic": "Bird beak appearance (Achalasia)",
+    "imageSrc": "/images/ibq/radiology_bird_beak_appearance.jpg",
+    "vignette": "A 35-year-old female presents with progressive dysphagia to both solids and liquids for the past 6 months, accompanied by regurgitation of undigested food. A barium swallow study is performed and shown below. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Achalasia cardia"
+      },
+      {
+        "id": "B",
+        "text": "Esophageal carcinoma"
+      },
+      {
+        "id": "C",
+        "text": "Diffuse esophageal spasm"
+      },
+      {
+        "id": "D",
+        "text": "Reflux esophagitis with stricture"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Barium swallow showing a dilated esophageal body ending in a smooth, symmetric, tapered narrowing at the gastroesophageal junction, resembling a 'bird's beak'.",
+      "highYieldBuzzwords": [
+        "Bird's beak appearance",
+        "Rat-tail sign",
+        "Dysphagia to both solids and liquids",
+        "Auerbach's plexus",
+        "Lower esophageal sphincter non-relaxation"
+      ],
+      "detailedRationale": "The patient's presentation of dysphagia to both solids and liquids from the onset, combined with the diagnostic barium swallow findings, is highly characteristic of Achalasia Cardia. The image displays the classic 'bird's beak' or 'rat-tail' sign, representing a dilated esophagus with smooth, symmetric tapering at the lower esophageal sphincter (LES). This occurs due to incomplete relaxation of the LES and loss of peristalsis, caused by degeneration of the inhibitory nitrergic neurons in the myenteric (Auerbach's) plexus. In contrast, Esophageal Carcinoma typically presents with dysphagia first to solids, progressing to liquids, and shows an irregular 'apple-core' or shouldering pattern on barium swallow. Diffuse esophageal spasm classically presents with retrosternal chest pain and shows a 'corkscrew' or 'rosary bead' esophagus."
+    }
+  },
+  {
+    "id": "fmge_ibq_24",
+    "subject": "Dermatology",
+    "topic": "Pemphigus vulgaris (Acantholysis)",
+    "imageSrc": "/images/ibq/dermatology_pemphigus_vulgaris.jpg",
+    "vignette": "A 45-year-old female presents with painful, flaccid blisters on her lower limbs and trunk that rupture easily, leaving raw, denuded areas as shown in the historical plate. She also complains of painful oral mucosal erosions. Gentle lateral pressure on normal-appearing skin near a lesion leads to epidermal shearing. What is the primary histopathological hallmark associated with this condition?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acantholysis"
+      },
+      {
+        "id": "B",
+        "text": "Subepidermal clefting"
+      },
+      {
+        "id": "C",
+        "text": "Liquefactive degeneration of the basal layer"
+      },
+      {
+        "id": "D",
+        "text": "Microabscesses at the dermal papillae tips"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Historical illustration depicting large, flaccid bullae and denuded, eroded skin areas on the legs, characteristic of Pemphigus vulgaris.",
+      "highYieldBuzzwords": [
+        "Pemphigus vulgaris",
+        "Acantholysis",
+        "Nikolsky sign",
+        "Desmoglein 3",
+        "Tombstone appearance",
+        "Flaccid bullae"
+      ],
+      "detailedRationale": "The clinical presentation (flaccid bullae, oral ulcers, and a positive Nikolsky sign) and the image label (Pemphigus vulgaris) point directly to Pemphigus vulgaris. This is an autoimmune blistering disorder caused by autoantibodies (IgG) directed against desmoglein 3 (and/or desmoglein 1), which are crucial components of desmosomes. The destruction of these cell-to-cell junctions leads to 'acantholysis'—the separation of keratinocytes within the epidermis, resulting in intraepidermal blister formation and the characteristic 'row of tombstones' appearance on histology. Subepidermal clefting (Option B) is seen in Bullous pemphigoid. Liquefactive degeneration of the basal layer (Option C) is seen in Lichen planus. Microabscesses at the dermal papillae tips (Option D) are pathognomonic for Dermatitis herpetiformis."
+    }
+  },
+  {
+    "id": "fmge_ibq_25",
+    "subject": "Microbiology",
+    "topic": "Banana-shaped gametocyte (P. falciparum)",
+    "imageSrc": "/images/ibq/microbiology_banana-shaped_gametocyte.jpg",
+    "vignette": "A 24-year-old male presents with high-grade intermittent fever, chills, and severe headache 10 days after returning from a trip to sub-Saharan Africa. Peripheral blood smear examination shows the characteristic finding seen in the image. What is the most likely causative organism?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Plasmodium falciparum"
+      },
+      {
+        "id": "B",
+        "text": "Plasmodium vivax"
+      },
+      {
+        "id": "C",
+        "text": "Plasmodium malariae"
+      },
+      {
+        "id": "D",
+        "text": "Plasmodium ovale"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Giemsa-stained peripheral blood smear showing characteristic crescentic or banana-shaped gametocytes of Plasmodium falciparum alongside normal erythrocytes.",
+      "highYieldBuzzwords": [
+        "Banana-shaped gametocyte",
+        "Crescentic gametocyte",
+        "Malignant tertian malaria",
+        "Aestivo-autumnal malaria"
+      ],
+      "detailedRationale": "The image demonstrates the pathognomonic crescent-shaped (banana-shaped) gametocytes of Plasmodium falciparum. P. falciparum causes malignant tertian malaria and is known for sequestering in deep capillaries, leading to severe complications like cerebral malaria. P. vivax and P. ovale typically cause Schüffner's dots and produce round or oval gametocytes, while P. malariae produces band forms and causes quartan malaria."
+    }
+  },
+  {
+    "id": "fmge_ibq_26",
+    "subject": "Radiology",
+    "topic": "Tension pneumothorax (Chest X-ray)",
+    "imageSrc": "/images/ibq/radiology_tension_pneumothorax.jpg",
+    "vignette": "A 35-year-old male presents to the emergency department with sudden-onset severe shortness of breath and left-sided chest pain following blunt chest trauma. On examination, the trachea is deviated to the right, breath sounds are absent on the left hemithorax, and the patient is tachycardic and hypotensive. An urgent chest CT scan is performed, which shows the finding indicated by the black arrow.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tension pneumothorax"
+      },
+      {
+        "id": "B",
+        "text": "Massive hemothorax"
+      },
+      {
+        "id": "C",
+        "text": "Diaphragmatic rupture"
+      },
+      {
+        "id": "D",
+        "text": "Pulmonary embolism"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "CT scan of the chest demonstrating a large left-sided pneumothorax (indicated by the arrow) with complete collapse of the left lung parenchyma and mediastinal shift to the right, characteristic of a tension pneumothorax.",
+      "highYieldBuzzwords": [
+        "Mediastinal shift",
+        "Absent breath sounds",
+        "Tracheal deviation",
+        "Needle decompression"
+      ],
+      "detailedRationale": "The CT scan shows a large left pneumothorax causing collapse of the lung and contralateral mediastinal displacement (tension physiology). This is a life-threatening medical emergency requiring immediate needle decompression followed by chest tube insertion. Hemothorax would show fluid attenuation rather than air. Diaphragmatic rupture would show herniation of abdominal contents into the thorax. Pulmonary embolism does not cause this specific imaging appearance of a large unilateral air collection with tension shift."
+    }
+  },
+  {
+    "id": "fmge_ibq_27",
+    "subject": "Radiology",
+    "topic": "Colles fracture (Dinner fork deformity / Wrist X-ray)",
+    "imageSrc": "/images/ibq/radiology_colles_fracture.jpg",
+    "vignette": "A 55-year-old postmenopausal woman presents to the emergency department following a fall on an outstretched hand (FOOSH). Clinical examination of her right wrist reveals the classic deformity shown in the image above. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Colles fracture"
+      },
+      {
+        "id": "B",
+        "text": "Smith fracture"
+      },
+      {
+        "id": "C",
+        "text": "Scaphoid fracture"
+      },
+      {
+        "id": "D",
+        "text": "Monteggia fracture-dislocation"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Lateral photograph of a right wrist showing a prominent 'dinner-fork' or 'silver-fork' deformity characterized by dorsal angulation and dorsal displacement of the distal radius.",
+      "highYieldBuzzwords": [
+        "Dinner fork deformity",
+        "Fall on outstretched hand (FOOSH)",
+        "Extra-articular distal radius fracture",
+        "Dorsal displacement and angulation"
+      ],
+      "detailedRationale": "The image demonstrates a classic 'dinner-fork' (or silver-fork) deformity, which is pathognomonic for a Colles fracture—an extra-articular fracture of the distal radius typically caused by a fall on an outstretched hand (FOOSH). Option B (Smith fracture) is a 'reverse Colles' fracture resulting from a fall on a flexed wrist, leading to volar displacement. Option C (Scaphoid fracture) presents with anatomical snuffbox tenderness rather than a visible wrist deformity. Option D (Monteggia fracture-dislocation) involves a proximal ulnar shaft fracture combined with a dislocation of the radial head."
+    }
+  },
+  {
+    "id": "fmge_ibq_28",
+    "subject": "Radiology",
+    "topic": "Miliary tuberculosis (Millet seed opacities)",
+    "imageSrc": "/images/ibq/radiology_miliary_tuberculosis.jpg",
+    "vignette": "A 35-year-old male presents with a 2-month history of high-grade intermittent fever, progressive weight loss, night sweats, and dry cough. Gross pathology of the lung obtained from autopsy is shown in the image, demonstrating numerous uniformly distributed small yellow-white nodules resembling millet seeds.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Miliary tuberculosis"
+      },
+      {
+        "id": "B",
+        "text": "Bronchogenic carcinoma"
+      },
+      {
+        "id": "C",
+        "text": "Pulmonary sarcoidosis"
+      },
+      {
+        "id": "D",
+        "text": "Histoplasmosis"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Gross specimen of a lung cut surface showing diffuse, widespread, uniform small white-yellow granulomatous nodules (resembling millet seeds) measuring 1-2 mm throughout the parenchyma.",
+      "highYieldBuzzwords": [
+        "Millet seed opacities",
+        "Hematogenous dissemination",
+        "Caseating granulomas",
+        "Mycobacterium tuberculosis"
+      ],
+      "detailedRationale": "The gross pathology demonstrates classic 'miliary' tuberculosis, resulting from hematogenous spread of Mycobacterium tuberculosis to the lungs, yielding numerous small 1-2 mm yellow-white lesions resembling millet seeds. Bronchogenic carcinoma typically presents as a solitary pulmonary mass or hilar lymphadenopathy rather than diffuse tiny nodules. Pulmonary sarcoidosis features non-caseating granulomas predominantly along lymphatic routes, while histoplasmosis presents with calcified granulomas or focal infiltrates depending on exposure status, but the classic gross description with uniform millet seed distribution is pathognomonic for miliary TB."
+    }
+  },
+  {
+    "id": "fmge_ibq_29",
+    "subject": "Dermatology",
+    "topic": "Pemphigus vulgaris (Flaccid bullae & Acantholysis)",
+    "imageSrc": "/images/ibq/dermatology_pemphigus_vulgaris.jpg",
+    "vignette": "A 45-year-old male presents with multiple flaccid fluid-filled blisters and painful erosions over the skin of his lower extremities. The lesions easily rupture with minor trauma, and Nikolsky's sign is positive. The clinical illustration of the patient's legs is shown.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pemphigus vulgaris"
+      },
+      {
+        "id": "B",
+        "text": "Bullous pemphigoid"
+      },
+      {
+        "id": "C",
+        "text": "Dermatitis herpetiformis"
+      },
+      {
+        "id": "D",
+        "text": "Staphylococcal scalded skin syndrome"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Historical dermatological illustration (Plate 16) depicting multiple flaccid bullae, erosions, and hyperpigmented crusting on the lower extremities characteristic of Pemphigus vulgaris.",
+      "highYieldBuzzwords": [
+        "Flaccid bullae",
+        "Acantholysis",
+        "IgG against desmoglein 3",
+        "Positive Nikolsky's sign",
+        "Intraepidermal blister"
+      ],
+      "detailedRationale": "Pemphigus vulgaris is an autoimmune blistering disorder characterized by IgG autoantibodies directed against desmogleins (Dsg 1 and Dsg 3), leading to intraepidermal cleavage and acantholysis. The clinical presentation characteristically involves fragile, flaccid bullae and painful erosions that rupture easily (positive Nikolsky sign), unlike bullous pemphigoid which features tense bullae and subepidermal cleavage. Dermatitis herpetiformis presents with intensely pruritic grouped papules and vesicles on extensor surfaces associated with celiac disease. Staphylococcal scalded skin syndrome primarily affects infants and children due to epidermolytic toxins."
+    }
+  },
+  {
+    "id": "fmge_ibq_30",
+    "subject": "Dermatology",
+    "topic": "Herald patch (Pityriasis Rosea)",
+    "imageSrc": "/images/ibq/dermatology_herald_patch.jpg",
+    "vignette": "A 17-year-old male presents to the dermatology clinic with a large, solitary oval erythematous plaque with central clearing and a collarette of peripheral scaling on his upper chest, along with a recent onset of smaller pruritic papules distributed along the Langer's lines of the trunk. The clinical manifestation shown in the image is typically followed by a generalized eruption within 1 to 2 weeks. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pityriasis rosea"
+      },
+      {
+        "id": "B",
+        "text": "Guttate psoriasis"
+      },
+      {
+        "id": "C",
+        "text": "Tinea corporis"
+      },
+      {
+        "id": "D",
+        "text": "Secondary syphilis"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "A classic 'herald patch' and smaller secondary oval plaques distributed along skin cleavage lines (Langer's lines) on the anterior trunk, resembling a 'Christmas tree' pattern.",
+      "highYieldBuzzwords": [
+        "Herald patch",
+        "Collar-like scale",
+        "Christmas tree pattern",
+        "Langer's lines"
+      ],
+      "detailedRationale": "The image demonstrates a classic herald patch (mother patch) followed by smaller secondary lesions of pityriasis rosea. Pityriasis rosea is a self-limiting papulosquamous eruption commonly seen in adolescents and young adults. It typically starts with a single large herald patch with peripheral scaling, followed days to weeks later by a generalized eruption of smaller oval plaques distributed along Langer's lines on the trunk ('Christmas tree' distribution). Guttate psoriasis presents with teardrop-shaped papules without a preceding large herald patch. Tinea corporis shows central clearing with active raised borders and positive fungal potassium hydroxide (KOH) prep. Secondary syphilis presents with generalized palmar and plantar involvement and a positive VDRL/RPR test."
+    }
+  },
+  {
+    "id": "fmge_ibq_31",
+    "subject": "Dermatology",
+    "topic": "Chickenpox vesicular rash (Dewdrops on rose petal)",
+    "imageSrc": "/images/ibq/dermatology_chickenpox_vesicular_rash.jpg",
+    "vignette": "A 7-year-old boy is brought to the pediatrician by his mother with a 2-day history of fever, malaise, and a generalized pruritic rash that started on his trunk and spread to his face and extremities. Physical examination reveals multiple erythematous macules, papules, vesicles, and crusts distributed predominantly centrally. The characteristic rash shown in the image is observed. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chickenpox (Varicella)"
+      },
+      {
+        "id": "B",
+        "text": "Smallpox (Variola)"
+      },
+      {
+        "id": "C",
+        "text": "Disseminated herpes simplex"
+      },
+      {
+        "id": "D",
+        "text": "Impetigo contagiosa"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Generalized polymorphic cutaneous eruption showing characteristic 'dewdrops on a rose petal' appearance consisting of superficial vesicles on an erythematous base alongside papules and crusts.",
+      "highYieldBuzzwords": [
+        "Dewdrops on a rose petal",
+        "Pleomorphic rash",
+        "Centripetal distribution",
+        "Varicella-zoster virus"
+      ],
+      "detailedRationale": "The image demonstrates the classic 'dewdrops on a rose petal' appearance of varicella (chickenpox) lesions, characterized by pleomorphism (different stages of lesions present simultaneously: macules, papules, vesicles, and crusts) and a centripetal distribution (more concentrated on the trunk and face). Smallpox features a centrifugal distribution with lesions all in the same stage of development. Impetigo presents with honey-colored crusts. Disseminated HSV typically presents in immunocompromised patients with grouped vesicles on an erythematous base."
+    }
+  },
+  {
+    "id": "fmge_ibq_32",
+    "subject": "Microbiology",
+    "topic": "Ring trophozoites (P. falciparum malaria)",
+    "imageSrc": "/images/ibq/microbiology_ring_trophozoites.jpg",
+    "vignette": "A 30-year-old male returns from a business trip to sub-Saharan Africa complaining of high-grade fever with chills, rigors, and severe headache for the past 3 days. A peripheral blood smear examined via Giemsa stain is shown in the image. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Plasmodium falciparum malaria"
+      },
+      {
+        "id": "B",
+        "text": "Plasmodium vivax malaria"
+      },
+      {
+        "id": "C",
+        "text": "Babesiosis"
+      },
+      {
+        "id": "D",
+        "text": "Visceral leishmaniasis"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Giemsa-stained peripheral blood smear showing multiple erythrocytes infected with delicate ring-form trophozoites, some with multiple rings per cell and 'accolé' (appliqué) forms characteristic of Plasmodium falciparum.",
+      "highYieldBuzzwords": [
+        "Ring trophozoites",
+        "Multiple infections per RBC",
+        "Accolé forms",
+        "Banana-shaped gametocytes (not shown, but diagnostic of species)",
+        "Giemsa stain"
+      ],
+      "detailedRationale": "The peripheral blood smear shows delicate ring forms inside erythrocytes, characteristic of malaria. Plasmodium falciparum typically presents with multiple ring forms per red blood cell, appliqué (accolé) forms at the margin of the cell, and crescent- or banana-shaped gametocytes. Plasmodium vivax causes RBC enlargement and Schüffner's dots. Babesiosis shows 'Maltese cross' tetrads. Visceral leishmaniasis (Kala-azar) features Leishman-Donovan bodies within macrophages."
+    }
+  },
+  {
+    "id": "fmge_ibq_33",
+    "subject": "Ophthalmology",
+    "topic": "Cherry red spot (Central Retinal Artery Occlusion)",
+    "imageSrc": "/images/ibq/ophthalmology_cherry_red_spot.jpg",
+    "vignette": "A 65-year-old male with a history of hypertension and hyperlipidemia presents with sudden, painless, profound loss of vision in his left eye of 2 hours duration. Fundoscopic examination reveals a pale retina with a cherry-red spot at the macula. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Central Retinal Artery Occlusion (CRAO)"
+      },
+      {
+        "id": "B",
+        "text": "Central Retinal Vein Occlusion (CRVO)"
+      },
+      {
+        "id": "C",
+        "text": "Retinal Detachment"
+      },
+      {
+        "id": "D",
+        "text": "Age-related Macular Degeneration"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Fundus photograph showing retinal pallor (edema) with a characteristic 'cherry-red spot' at the fovea/macula due to preservation of choroidal blood supply.",
+      "highYieldBuzzwords": [
+        "Cherry-red spot",
+        "Sudden painless loss of vision",
+        "Pale retina",
+        "Box-carring of retinal vessels",
+        "Embolus"
+      ],
+      "detailedRationale": "The correct answer is Central Retinal Artery Occlusion (CRAO), which presents classically with acute, painless, profound monocular vision loss. The fundus shows a milky-white edematous retina due to ischemia of the inner retinal layers, with a prominent cherry-red spot at the fovea where the underlying choroidal circulation shines through thin photoreceptors. CRVO presents with 'blood and thunder' fundus (retinal hemorrhages). Retinal detachment presents with a veil or curtain-like shadow. AMD typically causes gradual central vision loss with drusen."
+    }
+  },
+  {
+    "id": "fmge_ibq_34",
+    "subject": "Cardiology",
+    "topic": "WPW syndrome ECG (Delta wave & Short PR)",
+    "imageSrc": "/images/ibq/cardiology_wpw_syndrome_ecg.jpg",
+    "vignette": "A 24-year-old healthy male presents with recurrent episodes of palpitations and lightheadedness. His resting ECG shows a shortened PR interval and a slurred initial upstroke of the QRS complex as demonstrated in the image. What is the most likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wolff-Parkinson-White (WPW) syndrome"
+      },
+      {
+        "id": "B",
+        "text": "First-degree atrioventricular block"
+      },
+      {
+        "id": "C",
+        "text": "Brugada syndrome"
+      },
+      {
+        "id": "D",
+        "text": "Atrial fibrillation"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": {
+      "imageFinding": "Electrocardiographic tracing showing a short PR interval and a prominent Delta wave (slurred upstroke of the QRS complex).",
+      "highYieldBuzzwords": [
+        "Delta wave",
+        "Short PR interval",
+        "Bundle of Kent",
+        "Pre-excitation"
+      ],
+      "detailedRationale": "The image demonstrates the pathognomonic 'Delta wave' (slurred QRS upstroke) and a short PR interval characteristic of Wolff-Parkinson-White (WPW) syndrome, caused by ventricular pre-excitation via an accessory pathway (Bundle of Kent). First-degree AV block features a prolonged PR interval (>200 ms). Brugada syndrome typically presents with coved ST-segment elevation in V1-V3 and right bundle branch block morphology. Atrial fibrillation shows irregularly irregular rhythm without discrete P waves, which is distinct from this single-lead pre-excitation morphology."
+    }
+  }
+]

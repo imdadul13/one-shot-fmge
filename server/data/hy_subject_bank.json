@@ -1,0 +1,712 @@
+{
+  "anatomy": [
+    {
+      "topic": "Upper Limb - Brachial Plexus Lesions",
+      "question": "A newborn delivered after a difficult breech delivery with shoulder dystocia presents with the right upper limb adducted, internally rotated at the shoulder, pronated at the forearm, and flexed at the wrist ('waiter's tip' posture). Which roots of the brachial plexus are damaged?",
+      "options": [
+        {
+          "key": "A",
+          "text": "C5 and C6 nerve roots (Erb-Duchenne Palsy)"
+        },
+        {
+          "key": "B",
+          "text": "C8 and T1 nerve roots (Klumpke Palsy)"
+        },
+        {
+          "key": "C",
+          "text": "C7 nerve root exclusively"
+        },
+        {
+          "key": "D",
+          "text": "Posterior cord of brachial plexus"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Erb-Duchenne palsy involves injury to the upper trunk (C5-C6 roots) caused by traction on the head during delivery. Paralyzed muscles: Deltoid, Biceps, Brachialis, Supraspinatus, Infraspinatus.",
+      "distractorExplanations": {
+        "B": "Klumpke palsy involves lower trunk (C8-T1) causing true claw hand and Horner syndrome.",
+        "C": "Isolated C7 lesion causes loss of triceps reflex and wrist extension without Erb posture.",
+        "D": "Posterior cord injury causes wrist drop and deltoid palsy without waiter's tip deformity."
+      },
+      "highYieldPearl": "Erb Palsy = C5-C6 (Upper trunk), Waiter's tip hand. Klumpke Palsy = C8-T1 (Lower trunk), Claw hand + Horner syndrome.",
+      "trap": "Do not confuse Erb palsy (C5-C6) with Klumpke palsy (C8-T1) on obstetric stems.",
+      "difficulty": "high-yield"
+    },
+    {
+      "topic": "Lower Limb - Nerve Lesions & Foot Drop",
+      "question": "A 26-year-old athlete sustains a direct blow to the lateral aspect of the right knee and presents with inability to dorsiflex and evert the right foot (foot drop) and loss of sensation over the anterolateral leg and dorsum of the foot. Which nerve is most likely injured?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Common Peroneal (Fibular) Nerve at the fibular neck"
+        },
+        {
+          "key": "B",
+          "text": "Tibial Nerve in the popliteal fossa"
+        },
+        {
+          "key": "C",
+          "text": "Femoral Nerve in the femoral triangle"
+        },
+        {
+          "key": "D",
+          "text": "Obturator Nerve in the obturator canal"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "The Common Peroneal Nerve winds around the neck of the fibula where it is subcutaneous. Injury results in paralysis of dorsiflexors (Deep peroneal) and everters (Superficial peroneal) causing Foot Drop.",
+      "distractorExplanations": {
+        "B": "Tibial nerve injury causes inability to plantarflex (cannot walk on toes) and sensory loss on the sole.",
+        "C": "Femoral nerve injury causes loss of knee extension (quadriceps) and diminished patellar reflex.",
+        "D": "Obturator nerve injury causes loss of thigh adduction and sensory loss over medial thigh."
+      },
+      "highYieldPearl": "PED = Peroneal Everts and Dorsiflexes (Foot Drop if injured). TIP = Tibial Inverts and Plantarflexes (cannot stand on tiptoes).",
+      "trap": "Tibial nerve supplies posterior compartment; Peroneal supplies anterior and lateral compartments.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "physiology": [
+    {
+      "topic": "Respiratory Physiology - Lung Volumes & Compliance",
+      "question": "A 30-year-old healthy male undergoes pulmonary function testing. Which of the following lung volumes CANNOT be measured directly using standard simple spirometry?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Residual Volume (RV), Functional Residual Capacity (FRC), and Total Lung Capacity (TLC)"
+        },
+        {
+          "key": "B",
+          "text": "Tidal Volume (TV) and Vital Capacity (VC)"
+        },
+        {
+          "key": "C",
+          "text": "Inspiratory Reserve Volume (IRV)"
+        },
+        {
+          "key": "D",
+          "text": "Expiratory Reserve Volume (ERV)"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Standard simple spirometry cannot measure any volume or capacity that contains Residual Volume (RV). Therefore, RV, FRC (ERV + RV), and TLC (VC + RV) require helium dilution or body plethysmography.",
+      "distractorExplanations": {
+        "B": "Tidal volume and Vital capacity are directly measured by spirometry.",
+        "C": "IRV is measured directly by maximal inspiration above tidal volume.",
+        "D": "ERV is measured directly by maximal expiration below resting baseline."
+      },
+      "highYieldPearl": "Spirometry CANNOT measure anything with Residual Volume: RV, FRC, and TLC.",
+      "trap": "Vital Capacity (VC) DOES NOT contain Residual Volume and CAN be measured by spirometry.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "biochemistry": [
+    {
+      "topic": "Inborn Errors of Metabolism - Phenylketonuria (PKU)",
+      "question": "A 6-month-old infant is brought with developmental delay, microcephaly, fair skin, blond hair, and a characteristic musty/mousy body odor. What enzyme deficiency is responsible for this classic condition?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phenylalanine Hydroxylase (PAH)"
+        },
+        {
+          "key": "B",
+          "text": "Homogentisate Oxidase"
+        },
+        {
+          "key": "C",
+          "text": "Branched-Chain Alpha-Ketoacid Dehydrogenase"
+        },
+        {
+          "key": "D",
+          "text": "Tyrosinase"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Classic Phenylketonuria (PKU) is an autosomal recessive deficiency of Phenylalanine Hydroxylase preventing conversion of Phenylalanine to Tyrosine. Excess phenylacetate causes mousy odor; tyrosine deficiency causes hypopigmentation.",
+      "distractorExplanations": {
+        "B": "Homogentisate oxidase deficiency causes Alkaptonuria (ochronosis and black urine).",
+        "C": "Branched-chain alpha-ketoacid dehydrogenase deficiency causes Maple Syrup Urine Disease (sweet odor).",
+        "D": "Tyrosinase deficiency causes Oculocutaneous Albinism without intellectual disability."
+      },
+      "highYieldPearl": "PKU = Phenylalanine Hydroxylase deficiency -> Mousy odor, fair skin, developmental delay. Tyrosine becomes an ESSENTIAL amino acid.",
+      "trap": "Tyrosine becomes conditionally ESSENTIAL in PKU patients.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "pathology": [
+    {
+      "topic": "Neoplasia - Oncogenes & Tumor Suppressors",
+      "question": "A 52-year-old female undergoes breast lumpectomy. Histopathology demonstrates invasive ductal carcinoma. Immunohistochemistry shows strong membranous overexpression of a transmembrane receptor tyrosine kinase belonging to the EGFR family. Which targeted monoclonal antibody is indicated?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trastuzumab (anti-HER2/neu)"
+        },
+        {
+          "key": "B",
+          "text": "Rituximab (anti-CD20)"
+        },
+        {
+          "key": "C",
+          "text": "Bevacizumab (anti-VEGF)"
+        },
+        {
+          "key": "D",
+          "text": "Imatinib (BCR-ABL inhibitor)"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "HER2/neu (ERBB2) encodes a transmembrane epidermal growth factor receptor with tyrosine kinase activity. Overexpression is targeted by Trastuzumab (Herceptin), which requires cardiac monitoring.",
+      "distractorExplanations": {
+        "B": "Rituximab targets CD20 in B-cell non-Hodgkin lymphomas.",
+        "C": "Bevacizumab targets VEGF to inhibit angiogenesis.",
+        "D": "Imatinib is a tyrosine kinase inhibitor targeting BCR-ABL in CML."
+      },
+      "highYieldPearl": "HER2/neu = Chromosome 17q, Receptor Tyrosine Kinase. Targeted drug: Trastuzumab. Key toxicity: Cardiotoxicity.",
+      "trap": "Trastuzumab causes reversible cardiotoxicity, unlike Doxorubicin which causes dose-dependent irreversible myocardial fibrosis.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "pharmacology": [
+    {
+      "topic": "Autonomic Pharmacology - Organophosphate Poisoning",
+      "question": "A 35-year-old agricultural worker is brought to the emergency department with profuse salivation, lacrimation, miosis, diarrhea, bradycardia (HR 42 bpm), bronchospasm, and skeletal muscle fasciculations after spraying crops. What is the immediate specific pharmacological antidote to reverse life-threatening muscarinic symptoms?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Intravenous Atropine sulfate titrated to clear chest secretions"
+        },
+        {
+          "key": "B",
+          "text": "Intravenous Physostigmine"
+        },
+        {
+          "key": "C",
+          "text": "Pralidoxime (2-PAM) alone as monotherapy"
+        },
+        {
+          "key": "D",
+          "text": "Intravenous Naloxone"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Organophosphates irreversibly inhibit acetylcholinesterase, leading to cholinergic crisis. Atropine is a competitive muscarinic antagonist that immediately reverses life-threatening bronchospasm. The end-point of atropinization is dry tracheobronchial secretions (clear chest).",
+      "distractorExplanations": {
+        "B": "Physostigmine is a cholinesterase inhibitor used in atropine toxicity and would worsen organophosphate poisoning.",
+        "C": "Pralidoxime reactivates acetylcholinesterase at nicotinic sites, but Atropine MUST be administered FIRST to prevent fatal bronchospasm.",
+        "D": "Naloxone is an opioid receptor antagonist and has no role in cholinergic poisoning."
+      },
+      "highYieldPearl": "Organophosphate Antidotes: Atropine (blocks muscarinic signs, end-point: dry secretions) + Pralidoxime (reactivates enzyme, reverses muscle weakness).",
+      "trap": "End-point of atropine therapy in OP poisoning is CLEAR LUNG SOUNDS / DRY AXILLAE, NOT pupil size.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "microbiology": [
+    {
+      "topic": "Bacteriology - Clostridium tetani & Toxins",
+      "question": "A 40-year-old unimmunized gardener sustains a deep puncture wound and presents 7 days later with lockjaw (trismus), risus sardonicus, and painful reflex spasms triggered by light and noise. What is the cellular mechanism of action of the causative exotoxin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cleavage of synaptobrevin preventing release of GABA and Glycine from inhibitory Renshaw cells"
+        },
+        {
+          "key": "B",
+          "text": "Cleavage of SNAP-25 preventing release of Acetylcholine at neuromuscular junction"
+        },
+        {
+          "key": "C",
+          "text": "ADP-ribosylation of Elongation Factor-2 (EF-2)"
+        },
+        {
+          "key": "D",
+          "text": "Inactivation of 60S ribosomal subunit by cleaving adenine from rRNA"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Tetanospasmin cleaves synaptobrevin (SNARE protein), preventing exocytosis of inhibitory neurotransmitters (GABA and Glycine) from Renshaw interneurons. This leads to unopposed motor nerve firing and spastic paralysis.",
+      "distractorExplanations": {
+        "B": "Botulinum toxin cleaves SNAP-25 at peripheral cholinergic synapses causing FLACCID paralysis.",
+        "C": "Diphtheria toxin ADP-ribosylates EF-2 to inhibit host protein synthesis.",
+        "D": "Shiga toxin inactivates the 60S ribosomal subunit."
+      },
+      "highYieldPearl": "Tetanospasmin: Blocks GABA/Glycine in Renshaw cells -> SPASTIC paralysis. Botulinum: Blocks ACh release -> FLACCID paralysis.",
+      "trap": "Tetanus toxin causes SPASTIC paralysis; Botulinum causes FLACCID paralysis.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "forensic": [
+    {
+      "topic": "Thanatology - Post-Mortem Changes",
+      "question": "During a medico-legal autopsy, a cherry-red discoloration of post-mortem hypostasis (livor mortis) and internal organs is observed. What is the most likely cause of death?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Carbon Monoxide (CO) Poisoning"
+        },
+        {
+          "key": "B",
+          "text": "Cyanide Poisoning"
+        },
+        {
+          "key": "C",
+          "text": "Phosphorus Poisoning"
+        },
+        {
+          "key": "D",
+          "text": "Nitrite / Aniline Poisoning (Methemoglobinemia)"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Cherry-red hypostasis is classic for Carbon Monoxide (CO) poisoning due to carboxyhemoglobin. Cyanide causes bright pink/brick-red staining. Nitrites and aniline cause chocolate brown hypostasis.",
+      "distractorExplanations": {
+        "B": "Cyanide produces bright brick-red / pink hypostasis with bitter almond odor.",
+        "C": "Phosphorus poisoning produces dark brown hypostasis and luminous stools in dark.",
+        "D": "Methemoglobinemia from nitrites produces chocolate brown discoloration."
+      },
+      "highYieldPearl": "Hypostasis Colors: Cherry-red = Carbon Monoxide; Brick-red = Cyanide; Chocolate-brown = Methemoglobin / Nitrites; Greenish = Hydrogen Sulfide.",
+      "trap": "Cherry-red = Carbon Monoxide, while Brick-red/Pink = Cyanide.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "psm": [
+    {
+      "topic": "Screening Tests & Sensitivity/Specificity Calculations",
+      "question": "A newly introduced rapid test for Dengue fever is evaluated on 1,000 subjects in an endemic region where the disease prevalence is 20%. The test sensitivity is 90% and specificity is 80%. What is the Positive Predictive Value (PPV) of this test?",
+      "options": [
+        {
+          "key": "A",
+          "text": "52.9%"
+        },
+        {
+          "key": "B",
+          "text": "68.5%"
+        },
+        {
+          "key": "C",
+          "text": "90.0%"
+        },
+        {
+          "key": "D",
+          "text": "80.0%"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Total population = 1000. Diseased = 200 (20%), Healthy = 800 (80%). True Positives (TP) = 90% of 200 = 180. False Positives (FP) = 20% of 800 = 160. Positive Predictive Value = TP / (TP + FP) = 180 / (180 + 160) = 180 / 340 = 52.9%.",
+      "distractorExplanations": {
+        "B": "68.5% is an arithmetic distractor.",
+        "C": "90% is the sensitivity, not the predictive value.",
+        "D": "80% is the specificity of the test."
+      },
+      "highYieldPearl": "PPV directly depends on Prevalence. As prevalence rises, PPV increases while NPV decreases. Sensitivity & Specificity are constant test characteristics.",
+      "trap": "Sensitivity and Specificity are intrinsic test properties; PPV and NPV change with disease prevalence.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "ent": [
+    {
+      "topic": "Otology - Otosclerosis & Audiometry",
+      "question": "A 32-year-old female presents with bilateral progressive hearing loss, worse on the left, and reports hearing better in noisy environments (Paracusis Willisii). Pure-tone audiometry shows a conductive hearing loss with a characteristic dip in bone conduction at 2000 Hz. What is this audiometric dip called?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Carhart Notch"
+        },
+        {
+          "key": "B",
+          "text": "Acoustic Dip at 4000 Hz (Boilermaker notch)"
+        },
+        {
+          "key": "C",
+          "text": "Schwartze Sign"
+        },
+        {
+          "key": "D",
+          "text": "Gelle Sign"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Carhart Notch is a localized decrease in bone conduction thresholds at 2000 Hz (2 kHz) seen in Otosclerosis due to fixation of the stapes footplate. Paracusis of Willis is a hallmark symptom. Treatment of choice is Stapedotomy.",
+      "distractorExplanations": {
+        "B": "Acoustic dip at 4000 Hz is pathognomonic for Noise-Induced Hearing Loss (NIHL).",
+        "C": "Schwartze sign (Flamingo pink blush on promontory) indicates active otosclerosis.",
+        "D": "Gelle test is a clinical tuning fork test for stapedial fixation."
+      },
+      "highYieldPearl": "Otosclerosis: Carhart notch at 2000 Hz, Paracusis Willisii, Flamingo pink Schwartze sign. DOC surgery: Stapedotomy.",
+      "trap": "Carhart notch is at 2000 Hz (Otosclerosis), whereas Noise-induced notch is at 4000 Hz.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "ophthalmology": [
+    {
+      "topic": "Glaucoma - Acute Angle-Closure Glaucoma",
+      "question": "A 60-year-old hyperopic female presents with severe right eye pain, headache, vomiting, colored halos around lights, and blurred vision after watching a movie in a dark theater. Examination reveals a ciliary flush, steamy cornea, mid-dilated non-reactive pupil, and stony hard eyeball with IOP of 55 mmHg. What is the definitive curative procedure after acute medical control?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Laser Peripheral Iridotomy (LPI) in both eyes"
+        },
+        {
+          "key": "B",
+          "text": "Trabeculectomy with Mitomycin C"
+        },
+        {
+          "key": "C",
+          "text": "Topical Atropine 1% eye drops"
+        },
+        {
+          "key": "D",
+          "text": "Intracapsular cataract extraction"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Acute primary angle-closure glaucoma is caused by pupillary block. Immediate medical management includes IV Mannitol, oral Acetazolamide, and topical Pilocarpine 2%. Definitive curative treatment is Nd:YAG Laser Peripheral Iridotomy (LPI) in both eyes.",
+      "distractorExplanations": {
+        "B": "Trabeculectomy is reserved for open-angle glaucoma or medical failure.",
+        "C": "Atropine is a mydriatic that would further occlude the angle and is STRICTLY CONTRAINDICATED.",
+        "D": "Cataract extraction is not the immediate standard emergency curative step."
+      },
+      "highYieldPearl": "Acute Angle Closure: Immediate IV Mannitol + Acetazolamide + Pilocarpine. Definitive treatment: Bilateral Nd:YAG Laser Peripheral Iridotomy (LPI). Mydriatics are contraindicated.",
+      "trap": "Never give Atropine or Tropicamide in shallow angles; it precipitates acute angle-closure glaucoma.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "medicine": [
+    {
+      "topic": "Cardiology - Right Ventricular Myocardial Infarction",
+      "question": "A 54-year-old male with acute inferior wall STEMI (ST elevations in II, III, aVF) is given sublingual nitroglycerin and suddenly becomes acutely hypotensive (BP 70/40 mmHg) and bradycardic with elevated JVP and clear lung fields. What is the most crucial next management step?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Immediate intravenous 0.9% Normal Saline bolus"
+        },
+        {
+          "key": "B",
+          "text": "Intravenous Furosemide bolus"
+        },
+        {
+          "key": "C",
+          "text": "Sublingual Nitroglycerin repeat dose"
+        },
+        {
+          "key": "D",
+          "text": "Immediate Beta-blocker administration"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "This patient has Right Ventricular Myocardial Infarction (RVMI) complicating inferior MI (RCA occlusion). RVMI is preload-dependent; nitrates and diuretics drop preload and cause profound circulatory collapse. The immediate management is rapid IV isotonic crystalloid volume expansion.",
+      "distractorExplanations": {
+        "B": "Furosemide further depletes preload and worsens cardiovascular collapse in RV infarction.",
+        "C": "Nitroglycerin caused the acute hypotension by venodilation and is contraindicated.",
+        "D": "Beta-blockers worsen bradycardia and cardiogenic shock in RV failure."
+      },
+      "highYieldPearl": "RV Infarction Triad: Hypotension + Elevated JVP + Clear lung fields. Treatment: IV fluids. Contraindicated: Nitrates, Morphine, Diuretics.",
+      "trap": "In RVMI, lungs are CLEAR (unlike LV failure where pulmonary edema causes crackles/rales).",
+      "difficulty": "high-yield"
+    },
+    {
+      "topic": "Cardiology - Complete Heart Block (3rd Degree AV Block)",
+      "question": "A 72-year-old male presents with recurrent syncopal attacks (Stokes-Adams attacks) and severe fatigue. Physical examination reveals cannon 'a' waves in the internal jugular vein and variable intensity of S1. 12-lead ECG demonstrates regular P-P intervals (rate 75/min) and regular R-R intervals (rate 36/min) with complete absence of relationship between P waves and QRS complexes (AV dissociation). What is the definitive management of choice?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Permanent Pacemaker Implantation (PPI)"
+        },
+        {
+          "key": "B",
+          "text": "Oral Digoxin maintenance"
+        },
+        {
+          "key": "C",
+          "text": "Intravenous Amiodarone infusion"
+        },
+        {
+          "key": "D",
+          "text": "Synchronized DC Cardioversion"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Complete (Third-Degree) Heart Block exhibits complete AV dissociation with a slow escape rhythm. Cannon 'a' waves occur when the right atrium contracts against a closed tricuspid valve. The definitive curative treatment for symptomatic complete heart block is Permanent Pacemaker Implantation (PPI).",
+      "distractorExplanations": {
+        "B": "Digoxin blocks the AV node further and is strictly contraindicated in high-grade AV block.",
+        "C": "Amiodarone slows conduction and would worsen bradycardia and complete heart block.",
+        "D": "Synchronized cardioversion is for tachyarrhythmias, not complete heart block bradyarrhythmia."
+      },
+      "highYieldPearl": "Complete Heart Block: Cannon 'a' waves + AV dissociation + Stokes-Adams syncope. Definitive treatment = Permanent Pacemaker (PPI).",
+      "trap": "Cannon 'a' waves occur due to right atrial contraction against closed tricuspid valve during AV dissociation.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "surgery": [
+    {
+      "topic": "Burns - Parkland Formula & Resuscitation",
+      "question": "A 70 kg man presents with 40% deep partial-thickness flame burns. Using the modified Parkland formula, how much Ringer Lactate should be administered within the first 8 hours post-injury?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5,600 mL"
+        },
+        {
+          "key": "B",
+          "text": "11,200 mL"
+        },
+        {
+          "key": "C",
+          "text": "2,800 mL"
+        },
+        {
+          "key": "D",
+          "text": "4,200 mL"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Total 24-hr fluid = 4 mL x Weight (kg) x % TBSA = 4 x 70 x 40 = 11,200 mL. Half of the total (50%) = 5,600 mL given in the FIRST 8 hours calculated from the EXACT TIME OF BURN.",
+      "distractorExplanations": {
+        "B": "11,200 mL is the total 24-hour fluid volume, not the initial 8-hour portion.",
+        "C": "2,800 mL is 25% of the total given in subsequent 8-hour intervals.",
+        "D": "4,200 mL is an incorrect calculation."
+      },
+      "highYieldPearl": "Parkland fluid of choice = Ringer Lactate. Target urine output in adults = 0.5 to 1 mL/kg/hr.",
+      "trap": "The 8-hour clock starts from the TIME OF INJURY, NOT the time of hospital arrival.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "obg": [
+    {
+      "topic": "Obstetric Emergencies - Eclampsia & Magnesium Sulfate",
+      "question": "A 24-year-old primigravida at 34 weeks gestation with severe preeclampsia develops generalized tonic-clonic convulsions. Intravenous Magnesium Sulfate loading dose is administered. During monitoring, which of the following is the EARLIEST clinical sign of Magnesium toxicity?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Loss of deep tendon reflexes (Patellar reflex / Knee jerk)"
+        },
+        {
+          "key": "B",
+          "text": "Respiratory depression (<12 breaths/min)"
+        },
+        {
+          "key": "C",
+          "text": "Cardiac arrest"
+        },
+        {
+          "key": "D",
+          "text": "Oliguria (<30 mL/hr)"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Magnesium toxicity sequence: (1) Loss of deep tendon reflexes at 8-10 mEq/L (earliest sign), (2) Respiratory depression at 12 mEq/L, (3) Cardiac arrest at >15 mEq/L. The specific antidote is IV Calcium Gluconate 10% (10 mL over 10 min).",
+      "distractorExplanations": {
+        "B": "Respiratory depression occurs after loss of reflexes (at ~12 mEq/L).",
+        "C": "Cardiac arrest is the terminal manifestation at >15 mEq/L.",
+        "D": "Oliguria is a cause of accumulation, not the earliest physiological sign of toxicity."
+      },
+      "highYieldPearl": "MgSO4 Toxicity: Loss of Patellar Jerk is the first sign. Antidote is 10 mL of 10% Calcium Gluconate IV.",
+      "trap": "Never stop checking the patellar reflex before each maintenance dose of MgSO4.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "pediatrics": [
+    {
+      "topic": "Respiratory Emergencies - Croup vs Epiglottitis",
+      "question": "A 3-year-old child presents with high fever, sore throat, severe inspiratory stridor, drooling of saliva, and toxic appearance, sitting upright and leaning forward with chin thrust (tripod position). Anteroposterior neck X-ray shows the classic 'Thumbprint sign'. What is the most immediate management step?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Secure the airway immediately in the operating room under general anesthesia"
+        },
+        {
+          "key": "B",
+          "text": "Examine the oropharynx with a wooden tongue blade in the triage room"
+        },
+        {
+          "key": "C",
+          "text": "Administer nebulized racemic epinephrine and send child home"
+        },
+        {
+          "key": "D",
+          "text": "Perform immediate indirect laryngoscopy without oxygen"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Acute Epiglottitis (caused by Haemophilus influenzae type b) is a life-threatening pediatric airway emergency. Key features: 4 D's (Drooling, Dysphagia, Distress, Dysphonia) + Tripod position + Thumbprint sign on lateral X-ray. Never examine the throat with a tongue depressor outside an OR because it can trigger fatal laryngospasm. Airway must be secured immediately.",
+      "distractorExplanations": {
+        "B": "Throat examination with a tongue depressor is strictly contraindicated outside an OR as it can precipitate fatal acute complete airway obstruction.",
+        "C": "Nebulized racemic epinephrine is for Croup (Steeple sign), not acute bacterial epiglottitis.",
+        "D": "Indirect laryngoscopy without airway equipment ready is dangerous."
+      },
+      "highYieldPearl": "Epiglottitis: H. influenzae b, Tripod posture, Drooling, Thumbprint sign. Never use tongue depressor. Secure airway in OR.",
+      "trap": "Croup has Steeple sign (subglottic narrowing) and barking cough; Epiglottitis has Thumbprint sign and drooling WITHOUT barking cough.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "orthopedics": [
+    {
+      "topic": "Forearm Fractures - Monteggia vs Galeazzi",
+      "question": "A 22-year-old motorcyclist falls onto an outstretched hand and sustains a fracture of the upper third of the ulna associated with anterior dislocation of the radial head. What is this fracture-dislocation eponym?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Monteggia Fracture-Dislocation"
+        },
+        {
+          "key": "B",
+          "text": "Galeazzi Fracture-Dislocation"
+        },
+        {
+          "key": "C",
+          "text": "Colles Fracture"
+        },
+        {
+          "key": "D",
+          "text": "Smith Fracture (Reverse Colles)"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Monteggia fracture: Fracture of proximal third of Ulna with dislocation of Radial head. Galeazzi fracture: Fracture of distal third of Radius with dislocation of inferior radio-ulnar joint (DRUJ).",
+      "distractorExplanations": {
+        "B": "Galeazzi is Radius fracture (distal) with distal radioulnar joint dislocation (MU-GR mnemonic).",
+        "C": "Colles is extra-articular distal radius fracture with dorsal displacement (dinner fork deformity).",
+        "D": "Smith fracture is distal radius fracture with volar displacement (garden spade deformity)."
+      },
+      "highYieldPearl": "Mnemonic MU-GR: Monteggia = Ulna fracture + Radial head dislocation; Galeazzi = Radius fracture + Distal radioulnar joint dislocation.",
+      "trap": "Remember MU-GR: Monteggia has ULNAR fracture, Galeazzi has RADIAL fracture.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "dermatology": [
+    {
+      "topic": "Bullous Disorders - Pemphigus vs Pemphigoid",
+      "question": "A 45-year-old male presents with widespread flaccid, easily ruptured blisters on the trunk and painful oral mucosal erosions. Direct examination reveals that lateral pressure on normal-appearing skin causes epidermal detachment (positive Nikolsky sign). Direct immunofluorescence shows intercellular IgG in a fishnet pattern. What is the diagnosis?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pemphigus Vulgaris"
+        },
+        {
+          "key": "B",
+          "text": "Bullous Pemphigoid"
+        },
+        {
+          "key": "C",
+          "text": "Dermatitis Herpetiformis"
+        },
+        {
+          "key": "D",
+          "text": "Erythema Multiforme"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Pemphigus Vulgaris is an autoimmune intraepidermal blistering disorder caused by IgG antibodies against Desmoglein 3 (and 1). Features: Flaccid blisters, oral mucosal involvement in >70%, Positive Nikolsky sign, Acantholysis on Tzanck smear (Tzanck cells), and intraepidermal split above basal layer (tombstone appearance).",
+      "distractorExplanations": {
+        "B": "Bullous Pemphigoid has TENSE blisters, subepidermal split, Negative Nikolsky sign, and linear IgG at basement membrane (anti-BP180/BP230).",
+        "C": "Dermatitis Herpetiformis has granular IgA deposits in dermal papillae associated with Celiac disease.",
+        "D": "Erythema Multiforme presents with targetoid lesions triggered by HSV or Mycoplasma."
+      },
+      "highYieldPearl": "Pemphigus Vulgaris: Flaccid blisters, Oral erosions, Nikolsky POSITIVE, Desmoglein 3, Fishnet IF. Bullous Pemphigoid: Tense blisters, Nikolsky NEGATIVE, Subepidermal.",
+      "trap": "Pemphigus has POSITIVE Nikolsky and flaccid blisters; Pemphigoid has NEGATIVE Nikolsky and tense blisters.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "psychiatry": [
+    {
+      "topic": "Psychopharmacology - Lithium Toxicity & Side Effects",
+      "question": "A 38-year-old patient with Bipolar I Disorder on Lithium therapy develops coarse tremors, ataxia, slurred speech, confusion, and polyuria. Serum Lithium level is 2.8 mEq/L (therapeutic range 0.6-1.2 mEq/L). What is the definitive management for severe lithium toxicity?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hemodialysis"
+        },
+        {
+          "key": "B",
+          "text": "Activated Charcoal administration"
+        },
+        {
+          "key": "C",
+          "text": "Intravenous Dantrolene"
+        },
+        {
+          "key": "D",
+          "text": "Intravenous Flumazenil"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Lithium is a small monovalent cation excreted purely by the kidneys and is readily dialyzable. Hemodialysis is the treatment of choice for severe toxicity (levels >4.0 mEq/L, or >2.5 mEq/L with severe neurotoxicity/renal failure). Activated charcoal does NOT bind lithium.",
+      "distractorExplanations": {
+        "B": "Activated charcoal does NOT adsorb lithium or other heavy metals/ions.",
+        "C": "Dantrolene is the specific treatment for Malignant Hyperthermia and Neuroleptic Malignant Syndrome.",
+        "D": "Flumazenil is the antagonist for Benzodiazepine overdose."
+      },
+      "highYieldPearl": "Lithium Toxicity: Coarse tremors, ataxia, confusion. Charcoal is USELESS. Treatment of choice for severe toxicity (>2.5 with symptoms or >4.0) is Hemodialysis.",
+      "trap": "Activated charcoal does NOT bind Lithium, Iron, Lead, Potassium, or simple Alcohols.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "radiology": [
+    {
+      "topic": "Emergency Radiology - Acute Head Trauma",
+      "question": "A 24-year-old male is struck in the temporal region during a cricket match, experiences a brief loss of consciousness, awakens with normal orientation for 2 hours (lucid interval), and then rapidly deteriorates into coma with an ipsilateral dilated, fixed pupil. Non-contrast head CT demonstrates a hyperdense biconvex (lenticular) extra-axial collection that does NOT cross suture lines. What is the source of bleeding?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Middle Meningeal Artery (Epidural Hematoma)"
+        },
+        {
+          "key": "B",
+          "text": "Bridging Cortical Veins (Subdural Hematoma)"
+        },
+        {
+          "key": "C",
+          "text": "Ruptured Saccular (Berry) Aneurysm (Subarachnoid Hemorrhage)"
+        },
+        {
+          "key": "D",
+          "text": "Charcot-Bouchard microaneurysms (Intracerebral Hemorrhage)"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Epidural Hematoma (EDH) typically results from pterion fracture lacerating the Middle Meningeal Artery. Key features: Lucid interval, uncal herniation (ipsilateral CN III palsy/blown pupil), and BICONVEX / Lenticular hyperdensity limited by cranial suture lines on CT.",
+      "distractorExplanations": {
+        "B": "Subdural Hematoma (SDH) is caused by bridging vein rupture and appears as a CRESCENT-shaped collection that CAN cross suture lines.",
+        "C": "Subarachnoid hemorrhage presents with 'worst headache of life' (thunderclap) and hyperdensity in basal cisterns/sulci.",
+        "D": "Intracerebral hemorrhage presents with intraparenchymal bleeding, commonly in basal ganglia."
+      },
+      "highYieldPearl": "Epidural Hematoma: Middle Meningeal Artery, Pterion fracture, Lucid interval, Biconvex lens-shaped CT, does NOT cross suture lines. Subdural: Bridging veins, Crescent shaped, CROSSES suture lines.",
+      "trap": "EDH is Biconvex and does NOT cross sutures; SDH is Crescent-shaped and CROSSES sutures.",
+      "difficulty": "high-yield"
+    }
+  ],
+  "anesthesia": [
+    {
+      "topic": "General Anesthesia - Malignant Hyperthermia",
+      "question": "During general anesthesia with Sevoflurane and Succinylcholine, a 28-year-old patient suddenly develops masseter spasm (trismus), severe tachycardia, abrupt rise in end-tidal CO2 (EtCO2 > 80 mmHg), rapidly spiking temperature (41.2°C), and generalized muscle rigidity. What is the specific pharmacological antidote?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Intravenous Dantrolene sodium (2.5 mg/kg bolus)"
+        },
+        {
+          "key": "B",
+          "text": "Intravenous Bromocriptine"
+        },
+        {
+          "key": "C",
+          "text": "Intravenous Calcium Chloride bolus"
+        },
+        {
+          "key": "D",
+          "text": "Intravenous Vecuronium"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Malignant Hyperthermia is an autosomal dominant skeletal muscle hypermetabolic crisis caused by mutations in the Ryanodine receptor (RYR1 gene) triggered by volatile inhalational anesthetics and succinylcholine. Dantrolene blocks the Ryanodine receptor, preventing intracellular calcium release from the sarcoplasmic reticulum.",
+      "distractorExplanations": {
+        "B": "Bromocriptine is a dopamine agonist used in Neuroleptic Malignant Syndrome (NMS) caused by antipsychotics.",
+        "C": "Calcium chloride would worsen sarcoplasmic calcium overload in malignant hyperthermia.",
+        "D": "Vecuronium is a non-depolarizing muscle relaxant that does not stop the intracellular hypermetabolic cascade."
+      },
+      "highYieldPearl": "Malignant Hyperthermia: RYR1 mutation, Triggered by Halothane/Sevoflurane/Succinylcholine. Earliest sign: Rise in End-tidal CO2. Specific antidote: IV Dantrolene.",
+      "trap": "The EARLIEST sign of Malignant Hyperthermia is an abrupt rise in End-Tidal CO2 (EtCO2), NOT hyperthermia (temperature spike is a late sign).",
+      "difficulty": "high-yield"
+    }
+  ]
+}

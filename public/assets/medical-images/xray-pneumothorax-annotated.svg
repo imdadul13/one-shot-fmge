@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <rect width="600" height="600" fill="#020617"/>
+  <path d="M 120 100 Q 300 60 480 100 Q 560 300 520 540 Q 300 580 80 540 Q 40 300 120 100 Z" fill="#0f172a" stroke="#334155" stroke-width="3"/>
+  <path d="M 330 140 Q 460 160 470 480 Q 400 500 350 490 Q 330 350 330 140 Z" fill="#1e293b"/>
+  <path d="M 360 250 Q 420 230 450 240 M 370 300 Q 430 320 460 340 M 360 350 Q 420 380 440 430" stroke="#64748b" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 130 140 Q 270 140 280 490 Q 180 530 120 490 Q 90 300 130 140 Z" fill="#000000"/>
+  <path d="M 270 240 Q 240 320 260 420 Q 280 340 270 240 Z" fill="#334155"/>
+  <path d="M 280 90 Q 320 150 350 250 Q 370 360 360 490 L 310 490 Q 310 320 270 160 Z" fill="#475569" opacity="0.8"/>
+  <path d="M 120 490 Q 200 540 280 500" stroke="#334155" stroke-width="3" fill="none"/>
+  <text x="35" y="45" font-family="'Courier New', monospace" font-size="16" font-weight="bold" fill="#64748b">R</text>
+
+  <g>
+    <path d="M 265 320 L 225 320" stroke="#38bdf8" stroke-width="2"/>
+    <text x="140" y="325" font-family="'Outfit', sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Visceral Pleural Line</text>
+    <path d="M 290 80 Q 320 120 335 150" stroke="#f59e0b" stroke-width="4" fill="none"/>
+    <text x="345" y="110" font-family="'Outfit', sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">Trachea Shifted Away →</text>
+    <text x="50" y="240" font-family="'Outfit', sans-serif" font-size="12" font-weight="bold" fill="#ef4444">Jet-Black Hyperlucency</text>
+    <text x="50" y="260" font-family="sans-serif" font-size="10" fill="#94a3b8">(Absent lung markings)</text>
+    <text x="130" y="560" font-family="'Outfit', sans-serif" font-size="11" font-weight="bold" fill="#ef4444">Depressed Hemidiaphragm</text>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" width="100%" height="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" width="100%" height="100%">
+  <rect width="600" height="500" fill="#090d16"/>
+  <!-- Right Hemidiaphragm Dome -->
+  <path d="M 60 320 Q 200 180 320 320" stroke="#94a3b8" stroke-width="4" fill="none"/>
+  <!-- Free Gas Crescent -->
+  <path d="M 80 315 Q 200 200 300 315 Q 200 230 80 315 Z" fill="#000000" stroke="#475569" stroke-width="1.5"/>
+  <!-- Liver Shadow below air crescent -->
+  <path d="M 70 330 Q 200 240 310 330 L 310 480 L 60 480 Z" fill="#1e293b" opacity="0.9"/>
+  <!-- Left Diaphragm and Gastric Bubble -->
+  <path d="M 330 330 Q 440 210 540 340" stroke="#94a3b8" stroke-width="4" fill="none"/>
+  <ellipse cx="440" cy="360" rx="60" ry="30" fill="#000000" stroke="#475569"/>
+  <text x="35" y="45" font-family="'Courier New', monospace" font-size="16" font-weight="bold" fill="#64748b">ERECT CHEST X-RAY · R</text>
+
+  <g>
+    <path d="M 200 170 L 200 220" stroke="#f59e0b" stroke-width="2.5"/>
+    <text x="120" y="160" font-family="'Outfit', sans-serif" font-size="12" font-weight="bold" fill="#f59e0b">Free Crescent of Air Under Right Diaphragm</text>
+    <text x="120" y="420" font-family="'Outfit', sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Liver Parenchyma (Homogeneous Soft Tissue)</text>
+  </g>
+</svg>
